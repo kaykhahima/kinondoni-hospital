@@ -105,7 +105,7 @@
         textarea,
         .ast-button,
         .ast-custom-button {
-            font-family: 'Open Sans', sans-serif;
+            font-family: 'Nunito', sans-serif;
             font-weight: 600;
             font-size: 16px;
             font-size: 1rem;
@@ -140,7 +140,7 @@
         .entry-content h6 a,
         .site-title,
         .site-title a {
-            font-family: 'Open Sans', sans-serif;
+            font-family: 'Nunito', sans-serif;
             font-weight: 700;
         }
 
@@ -188,7 +188,7 @@
             font-size: 70px;
             font-size: 4.375rem;
             font-weight: 700;
-            font-family: 'Open Sans', sans-serif;
+            font-family: 'Nunito', sans-serif;
             text-transform: uppercase;
         }
 
@@ -198,7 +198,7 @@
             font-size: 50px;
             font-size: 3.125rem;
             font-weight: 700;
-            font-family: 'Open Sans', sans-serif;
+            font-family: 'Nunito', sans-serif;
         }
 
         h3,
@@ -207,7 +207,7 @@
             font-size: 30px;
             font-size: 1.875rem;
             font-weight: 700;
-            font-family: 'Open Sans', sans-serif;
+            font-family: 'Nunito', sans-serif;
         }
 
         h4,
@@ -648,7 +648,7 @@
         }
 
         .elementor-button-wrapper .elementor-button {
-            font-family: 'Open Sans', sans-serif;
+            font-family: 'Nunito', sans-serif;
             font-weight: 700;
             line-height: 1;
             text-transform: uppercase;
@@ -673,7 +673,7 @@
             border-color: rgba(1, 146, 188, 0.84);
             background-color: rgba(1, 146, 188, 0.84);
             color: #ffffff;
-            font-family: 'Open Sans', sans-serif;
+            font-family: 'Nunito', sans-serif;
             font-weight: 700;
             line-height: 1;
             text-transform: uppercase;
@@ -715,7 +715,7 @@
             padding-right: 30px;
             padding-bottom: 14px;
             padding-left: 30px;
-            font-family: 'Open Sans', sans-serif;
+            font-family: 'Nunito', sans-serif;
             font-weight: 700;
             font-size: 15px;
             font-size: 0.9375rem;
@@ -1416,9 +1416,13 @@
             padding: 125px 0px !important;
         }
 
+        body {
+            font-family: 'Nunito', sans-serif !important;
+        }
+
     </style>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel='stylesheet' id='astra-google-fonts-css' href='http://fonts.googleapis.com/css?family=Open+Sans%3A600%2C700&amp;display=fallback&amp;ver=2.4.4' media='all' />
+    <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
     <link rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.minc225.css?ver=5.4.1' media='all' />
     <link rel='stylesheet' id='hfe-style-css' href='wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor91ce.css?ver=1.5.0' media='all' />
     <link rel='stylesheet' id='elementor-icons-css' href='wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min4c7e.css?ver=5.6.2' media='all' />
