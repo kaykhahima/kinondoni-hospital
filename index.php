@@ -14,70 +14,8 @@
     </script>
 
 
-    <title>Home - MultiMed Clinic</title>
-    <meta name="robots" content="index, follow" />
-    <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-    <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-    <link rel="canonical" href="index.html" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Home - MultiMed Clinic" />
-    <meta property="og:description" content="Here at &#8220;Multimed Clinic&#8221; We Offer World Class Medical Treatment I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Read More About Our Clinic Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod &hellip; Home Read More &raquo;" />
-    <meta property="og:url" content="https://websitedemos.net/multimed-04/" />
-    <meta property="og:site_name" content="MultiMed Clinic" />
-    <meta property="article:modified_time" content="2020-02-19T04:54:28+00:00" />
-    <meta property="og:image" content="https://websitedemos.net/multimed-04/wp-content/uploads/sites/228/2018/07/icon-01-free-img.png" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <script type="application/ld+json" class="yoast-schema-graph">
-        {
-            "@context": "https://schema.org",
-            "@graph": [{
-                "@type": "WebSite",
-                "@id": "https://websitedemos.net/multimed-04/#website",
-                "url": "https://websitedemos.net/multimed-04/",
-                "name": "MultiMed Clinic",
-                "description": "MultiMed Clinic",
-                "potentialAction": [{
-                    "@type": "SearchAction",
-                    "target": "https://websitedemos.net/multimed-04/?s={search_term_string}",
-                    "query-input": "required name=search_term_string"
-                }],
-                "inLanguage": "en-US"
-            }, {
-                "@type": "ImageObject",
-                "@id": "https://websitedemos.net/multimed-04/#primaryimage",
-                "inLanguage": "en-US",
-                "url": "https://websitedemos.net/multimed-04/wp-content/uploads/sites/228/2018/07/icon-01-free-img.png",
-                "width": 65,
-                "height": 57,
-                "caption": "Icon"
-            }, {
-                "@type": "WebPage",
-                "@id": "https://websitedemos.net/multimed-04/#webpage",
-                "url": "https://websitedemos.net/multimed-04/",
-                "name": "Home - MultiMed Clinic",
-                "isPartOf": {
-                    "@id": "https://websitedemos.net/multimed-04/#website"
-                },
-                "primaryImageOfPage": {
-                    "@id": "https://websitedemos.net/multimed-04/#primaryimage"
-                },
-                "datePublished": "2018-07-03T15:02:44+00:00",
-                "dateModified": "2020-02-19T04:54:28+00:00",
-                "inLanguage": "en-US",
-                "potentialAction": [{
-                    "@type": "ReadAction",
-                    "target": ["https://websitedemos.net/multimed-04/"]
-                }]
-            }]
-        }
+    <title>Kinondoni Hospital - We Care</title>
 
-    </script>
-
-    <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-    <link rel='dns-prefetch' href='http://s.w.org/' />
-    <link rel="alternate" type="application/rss+xml" title="MultiMed Clinic &raquo; Feed" href="feed/index.html" />
-    <link rel="alternate" type="application/rss+xml" title="MultiMed Clinic &raquo; Comments Feed" href="comments/feed/index.html" />
     <script>
         window._wpemojiSettings = {
             "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/",
@@ -1478,6 +1416,11 @@
             background-color: #00a650 !important;
         }
 
+        /*footer*/
+        .elementor-419 .elementor-element.elementor-element-6bd7d94 {
+            padding: 125px 0px !important;
+        }
+
     </style>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel='stylesheet' id='astra-google-fonts-css' href='http://fonts.googleapis.com/css?family=Open+Sans%3A600%2C700&amp;display=fallback&amp;ver=2.4.4' media='all' />
@@ -1559,12 +1502,12 @@ flexibility(document.documentElement);
                                         <div class="main-navigation">
                                             <ul id="primary-menu" class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border">
                                                 <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-19"><a href="index.php" aria-current="page">Home</a></li>
-                                                <li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="about/index.html">About</a></li>
-                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="Services/index.html">Services</a></li>
+                                                <li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="about/">About</a></li>
+                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="Services/">Services</a></li>
                                                 <!--                                                <li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="doctors/index.html">Doctors</a></li>-->
-                                                <li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="testimonials/index.html">Testimonials</a></li>
+                                                <li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="testimonials/">Testimonials</a></li>
 
-                                                <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="contact/index.html">Contact</a></li>
+                                                <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="contact/">Contact</a></li>
                                             </ul>
                                         </div>
                                     </nav>
@@ -1765,19 +1708,6 @@ flexibility(document.documentElement);
                                                                                                             </h4>
                                                                                                         </div>
                                                                                                     </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-element elementor-element-973f164 elementor-widget elementor-widget-divider" data-id="973f164" data-element_type="widget" data-widget_type="divider.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-divider">
-                                                                                                        <span class="elementor-divider-separator">
-                                                                                                        </span>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-element elementor-element-7789dd3f elementor-widget elementor-widget-text-editor" data-id="7789dd3f" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-text-editor elementor-clearfix">We provide 24/7 professional emergency help lorem ipsum dolor sit amet.</div>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -2357,36 +2287,24 @@ flexibility(document.documentElement);
                                                                 <div class="elementor-element elementor-element-6d21bf7 elementor-column elementor-col-33 elementor-inner-column" data-id="6d21bf7" data-element_type="column">
                                                                     <div class="elementor-column-wrap  elementor-element-populated">
                                                                         <div class="elementor-widget-wrap">
-                                                                            <div class="elementor-element elementor-element-5115143 elementor-widget elementor-widget-heading" data-id="5115143" data-element_type="widget" data-widget_type="heading.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <h4 class="elementor-heading-title elementor-size-default">About Us</h4>
-                                                                                </div>
+                                                                            <div class="site-branding">
+                                                                                <div class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
+                                                                                    <span class="site-logo-img"><a href="index.php" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="181" height="65" src="wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
                                                                             </div>
-                                                                            <div class="elementor-element elementor-element-3c532e2 elementor-widget elementor-widget-divider" data-id="3c532e2" data-element_type="widget" data-widget_type="divider.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <div class="elementor-divider">
-                                                                                        <span class="elementor-divider-separator">
-                                                                                        </span>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="elementor-element elementor-element-1264b8f elementor-widget elementor-widget-text-editor" data-id="1264b8f" data-element_type="widget" data-widget_type="text-editor.default">
+                                                                            <div class="elementor-element elementor-element-1264b8f elementor-widget elementor-widget-text-editor mt-3" data-id="1264b8f" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
                                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
+                                                                                        <h6 class="text-light">The Registered Trustees of</h6>
+                                                                                        <h2 class="text-light">Kinondoni Hospital</h2>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <div class="elementor-element elementor-element-eeacaf8 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="eeacaf8" data-element_type="widget" data-widget_type="button.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <div class="elementor-button-wrapper">
-                                                                                        <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-                                                                                            <span class="elementor-button-content-wrapper">
-                                                                                                <span class="elementor-button-icon elementor-align-icon-right">
-                                                                                                    <i aria-hidden="true" class="fas fa-angle-right"></i> </span>
-                                                                                                <span class="elementor-button-text">Read More</span>
-                                                                                            </span>
-                                                                                        </a>
+                                                                            <div class="elementor-column-wrap  elementor-element-populated pt-2">
+                                                                                <div class="elementor-widget-wrap">
+                                                                                    <div class="elementor-element elementor-element-eeacaf8 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="eeacaf8" data-element_type="widget" data-widget_type="button.default">
+                                                                                        <div class="elementor-widget-container pt-0">
+                                                                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31693.83299188031!2d39.22562691833612!3d-6.802770985315438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c4c72242f5221%3A0x55fbfe73d46e99a1!2sKinondoni%20Hospital!5e0!3m2!1sen!2stz!4v1591978137774!5m2!1sen!2stz" width="600" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                                                                                        </div>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -2500,19 +2418,6 @@ flexibility(document.documentElement);
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <div class="elementor-element elementor-element-82762ac elementor-widget elementor-widget-heading" data-id="82762ac" data-element_type="widget" data-widget_type="heading.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <h5 class="elementor-heading-title elementor-size-default">Emergency Cases</h5>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="elementor-element elementor-element-704bd3b elementor-widget elementor-widget-text-editor" data-id="704bd3b" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                        <p>+255 (0) 785 502 506
-                                                                                        </p>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
                                                                             <div class="elementor-element elementor-element-0134d55 elementor-widget elementor-widget-heading" data-id="0134d55" data-element_type="widget" data-widget_type="heading.default">
                                                                                 <div class="elementor-widget-container">
                                                                                     <h5 class="elementor-heading-title elementor-size-default">Address</h5>
@@ -2533,8 +2438,8 @@ flexibility(document.documentElement);
                                                                             <div class="elementor-element elementor-element-49491e2 elementor-widget elementor-widget-text-editor" data-id="49491e2" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
                                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                                        <p>Tel: 2760469</p>
-                                                                                        <p>Cell: +255 (0) 785 502 506</p>
+                                                                                        <p class="mb-0">Tel: 2760469</p>
+                                                                                        <p class="mb-0">Cell: +255 (0) 785 502 506</p>
                                                                                         <p>Fax: 0222761473</p>
                                                                                     </div>
                                                                                 </div>
@@ -2547,7 +2452,7 @@ flexibility(document.documentElement);
                                                                             <div class="elementor-element elementor-element-9ef1ff7 elementor-widget elementor-widget-text-editor" data-id="9ef1ff7" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
                                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                                        <p><a href="https://websitedemos.net/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="cdaea2a3b9acaeb98daea1a4a3a4aee3aea2a0">info@kinondonihospital.co.tz</a></p>
+                                                                                        <p><a href="#" class="__cf_email__ text-light" data-cfemail="cdaea2a3b9acaeb98daea1a4a3a4aee3aea2a0">info@kinondonihospital.co.tz</a></p>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
