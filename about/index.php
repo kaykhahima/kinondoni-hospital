@@ -1348,7 +1348,7 @@
         .entry-content h5,
         h6,
         .entry-content h6 {
-            color: #0192bc;
+            color: #00a650;
         }
 
         .ast-header-break-point .main-header-bar {
@@ -1410,22 +1410,6 @@
         /*        about heading bg*/
         .elementor-7 .elementor-element.elementor-element-17a747d9>.elementor-background-overlay {
             background-image: linear-gradient(45deg, #00a650 0%, #47b482 100%) !important;
-        }
-
-        /*        headings*/
-        h1,
-        .entry-content h1,
-        h2,
-        .entry-content h2,
-        h3,
-        .entry-content h3,
-        h4,
-        .entry-content h4,
-        h5,
-        .entry-content h5,
-        h6,
-        .entry-content h6 {
-            color: #00a650;
         }
 
         /*category of facility and legal requirements*/
@@ -1508,7 +1492,7 @@ flexibility(document.documentElement);
                         <div class="ast-flex main-header-container">
                             <div class="site-branding">
                                 <div class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
-                                    <span class="site-logo-img"><a href="index.php" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="181" height="65" src="../wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="../wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
+                                    <span class="site-logo-img"><a href="../" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="181" height="65" src="../wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="../wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
                             </div>
 
                             <div class="ast-mobile-menu-buttons">
@@ -1525,9 +1509,8 @@ flexibility(document.documentElement);
                                         <div class="main-navigation">
                                             <ul id="primary-menu" class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border">
                                                 <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-19"><a href="../">Home</a></li>
-                                                <li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7 current_page_item menu-item-18"><a href="index.html" aria-current="page">About</a></li>
+                                                <li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7 current_page_item menu-item-18"><a href="./" aria-current="page">About</a></li>
                                                 <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="../services/">Services</a></li>
-                                                <li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="../testimonials/">Testimonials</a></li>
                                                 <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="../contact/">Contact</a></li>
                                             </ul>
                                         </div>

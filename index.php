@@ -1298,7 +1298,7 @@
         .entry-content h5,
         h6,
         .entry-content h6 {
-            color: #0192bc;
+            color: #00a650;
         }
 
         .ast-header-break-point .main-header-bar {
@@ -1357,7 +1357,7 @@
         /*    CUSTOM STYLE*/
         .elementor-6 .elementor-element.elementor-element-683e60c3 {
             transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
-            padding: 200px 100px 100px !important;
+            padding: 230px 100px 100px !important;
         }
 
         /*        hero image bg color overlay*/
@@ -1366,22 +1366,6 @@
             background-image: linear-gradient(45deg, #00a650 0%, #47b482 100%) !important;
             opacity: .9;
             transition: background .3s, border-radius .3s, opacity .3s;
-        }
-
-        /*        headings*/
-        h1,
-        .entry-content h1,
-        h2,
-        .entry-content h2,
-        h3,
-        .entry-content h3,
-        h4,
-        .entry-content h4,
-        h5,
-        .entry-content h5,
-        h6,
-        .entry-content h6 {
-            color: #00a650;
         }
 
         /*        about section*/
@@ -1414,6 +1398,17 @@
         .elementor-button-wrapper .elementor-custom-btn:hover {
             border-color: #00a650 !important;
             background-color: #00a650 !important;
+        }
+
+        .elementor-6 .elementor-element.elementor-element-32ac764d .muted-btn {
+            fill: #000;
+            color: rgb(255, 255, 255, 0.7) !important;
+            background-color: transparent !important;
+            text-transform: capitalize;
+        }
+
+        .elementor-6 .elementor-element.elementor-element-32ac764d .muted-btn:hover {
+            color: rgb(255, 255, 255) !important;
         }
 
         /*footer*/
@@ -1485,7 +1480,7 @@ flexibility(document.documentElement);
                         <div class="ast-flex main-header-container">
                             <div class="site-branding">
                                 <div class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
-                                    <span class="site-logo-img"><a href="index.php" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="181" height="65" src="wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
+                                    <span class="site-logo-img"><a href="./" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="181" height="65" src="wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
                             </div>
 
                             <div class="ast-mobile-menu-buttons">
@@ -1501,12 +1496,9 @@ flexibility(document.documentElement);
                                     <nav class="ast-flex-grow-1 navigation-accessibility" id="site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope">
                                         <div class="main-navigation">
                                             <ul id="primary-menu" class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border">
-                                                <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-19"><a href="index.php" aria-current="page">Home</a></li>
+                                                <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-19"><a href="./" aria-current="page">Home</a></li>
                                                 <li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="about/">About</a></li>
-                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="Services/">Services</a></li>
-                                                <!--                                                <li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="doctors/index.html">Doctors</a></li>-->
-                                                <li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="testimonials/">Testimonials</a></li>
-
+                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="services/">Services</a></li>
                                                 <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="contact/">Contact</a></li>
                                             </ul>
                                         </div>
@@ -1565,8 +1557,7 @@ flexibility(document.documentElement);
                                                                                                     <div class="elementor-text-editor elementor-clearfix">
                                                                                                         <p>We provide quality health services to the
                                                                                                             public with a focus on low income earners in
-                                                                                                            the locale that the hospital is placed.
-                                                                                                            Together with partnering with insurance
+                                                                                                            the locale that the hospital is placed. Together with partnering with insurance
                                                                                                             companies that cater to the needs of the
                                                                                                             public, we also employ the services of highly
                                                                                                             trained medical specialists to undertake
@@ -1583,6 +1574,13 @@ flexibility(document.documentElement);
                                                                                                                 <span class="elementor-button-icon elementor-align-icon-right">
                                                                                                                     <i aria-hidden="true" class="fas fa-angle-right"></i> </span>
                                                                                                                 <span class="elementor-button-text">Make An Appointment </span>
+                                                                                                            </span>
+                                                                                                        </a>
+                                                                                                        <a href="about/" class="elementor-button-link elementor-button muted-btn elementor-size-sm" role="button">
+                                                                                                            <span class="elementor-button-content-wrapper">
+                                                                                                                <span class="elementor-button-icon elementor-align-icon-right">
+                                                                                                                    <i aria-hidden="true" class="fas fa-angle-right"></i> </span>
+                                                                                                                <span>Learn More </span>
                                                                                                             </span>
                                                                                                         </a>
                                                                                                     </div>
@@ -2109,7 +2107,7 @@ flexibility(document.documentElement);
                                                                     <div class="elementor-element elementor-element-78e6cf01 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="78e6cf01" data-element_type="widget" data-widget_type="button.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-button-wrapper">
-                                                                                <a href="#" class="elementor-button-link elementor-button elementor-custom-btn elementor-size-sm" role="button">
+                                                                                <a href="testimonials/" class="elementor-button-link elementor-button elementor-custom-btn elementor-size-sm" role="button">
                                                                                     <span class="elementor-button-content-wrapper">
                                                                                         <span class="elementor-button-icon elementor-align-icon-right">
                                                                                             <i aria-hidden="true" class="fas fa-angle-right"></i> </span>
