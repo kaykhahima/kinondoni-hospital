@@ -1155,6 +1155,7 @@
             .ast-theme-transparent-header .main-header-menu li>.ast-menu-toggle,
             .ast-theme-transparent-header .main-header-menu li>.ast-menu-toggle {
                 color: #00a650;
+                text-align: center;
             }
 
             .ast-theme-transparent-header .main-header-menu li:hover>a,
@@ -1422,11 +1423,11 @@
             color: #00a650;
         }
 
-/*
+
         a:hover {
-        color: rgb(255, 255, 255, 0.6) !important;
-        text-decoration: none !important;
-        }*/
+            text-decoration: none !important;
+            opacity: 0.7;
+        }
 
 
         body {

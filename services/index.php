@@ -1217,6 +1217,7 @@
             .ast-theme-transparent-header .main-header-menu li>.ast-menu-toggle,
             .ast-theme-transparent-header .main-header-menu li>.ast-menu-toggle {
                 color: #00a650;
+                text-align: center;
             }
 
             .ast-theme-transparent-header .main-header-menu li:hover>a,
@@ -1445,7 +1446,10 @@
             background: #000;
             color: #00a650;
         }
-
+a:hover {
+            text-decoration: none !important;
+            opacity: 0.7;
+        }
         body {
             font-family: 'Nunito', sans-serif !important;
         }
