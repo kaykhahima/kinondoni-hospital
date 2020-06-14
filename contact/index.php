@@ -1470,7 +1470,7 @@
 
         @media (max-width: 767px) {
             .elementor-12 .elementor-element.elementor-element-4caab032>.elementor-element-populated {
-                padding: 25px !important;
+                padding: 15px !important;
             }
 
             body {
