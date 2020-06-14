@@ -90,12 +90,12 @@
 
         a,
         .page-title {
-            color: #0192bc;
+            color: #00a650;
         }
 
         a:hover,
         a:focus {
-            color: #0192bc;
+            color: #00a650;
         }
 
         body,
@@ -247,7 +247,7 @@
         }
 
         ::selection {
-            background-color: #0192bc;
+            background-color: #00a650;
             color: #ffffff;
         }
 
@@ -278,8 +278,8 @@
         .tagcloud a:focus,
         .tagcloud a.current-item {
             color: #ffffff;
-            border-color: #0192bc;
-            background-color: #0192bc;
+            border-color: #00a650;
+            background-color: #00a650;
         }
 
         .main-header-menu a,
@@ -298,7 +298,7 @@
         .main-header-menu .current-menu-item>.ast-menu-toggle,
         .main-header-menu .current-menu-ancestor>.ast-menu-toggle,
         .main-header-menu .current_page_item>.ast-menu-toggle {
-            color: #0192bc;
+            color: #00a650;
         }
 
         input:focus,
@@ -309,7 +309,7 @@
         input[type="reset"]:focus,
         input[type="search"]:focus,
         textarea:focus {
-            border-color: #0192bc;
+            border-color: #00a650;
         }
 
         input[type="radio"]:checked,
@@ -318,15 +318,15 @@
         input[type="checkbox"]:hover:checked,
         input[type="checkbox"]:focus:checked,
         input[type=range]::-webkit-slider-thumb {
-            border-color: #0192bc;
-            background-color: #0192bc;
+            border-color: #00a650;
+            background-color: #00a650;
             box-shadow: none;
         }
 
         .site-footer a:hover+.post-count,
         .site-footer a:focus+.post-count {
-            background: #0192bc;
-            border-color: #0192bc;
+            background: #00a650;
+            border-color: #00a650;
         }
 
         .ast-small-footer {
@@ -360,20 +360,20 @@
         .single .nav-links .nav-next,
         .single .ast-author-details .author-title,
         .ast-comment-meta {
-            color: #0192bc;
+            color: #00a650;
         }
 
         .entry-meta,
         .entry-meta * {
             line-height: 1.45;
-            color: #0192bc;
+            color: #00a650;
         }
 
         .entry-meta a:hover,
         .entry-meta a:hover *,
         .entry-meta a:focus,
         .entry-meta a:focus * {
-            color: #0192bc;
+            color: #00a650;
         }
 
         .ast-404-layout-1 .ast-404-text {
@@ -390,18 +390,18 @@
         #cat option,
         .secondary .calendar_wrap thead a,
         .secondary .calendar_wrap thead a:visited {
-            color: #0192bc;
+            color: #00a650;
         }
 
         .secondary .calendar_wrap #today,
         .ast-progress-val span {
-            background: #0192bc;
+            background: #00a650;
         }
 
         .secondary a:hover+.post-count,
         .secondary a:focus+.post-count {
-            background: #0192bc;
-            border-color: #0192bc;
+            background: #00a650;
+            border-color: #00a650;
         }
 
         .calendar_wrap #today>a {
@@ -411,7 +411,7 @@
         .ast-pagination a,
         .page-links .page-link,
         .single .post-navigation a {
-            color: #0192bc;
+            color: #00a650;
         }
 
         .ast-pagination a:hover,
@@ -421,7 +421,7 @@
         .page-links>.page-link,
         .page-links .page-link:hover,
         .post-navigation a:hover {
-            color: #0192bc;
+            color: #00a650;
         }
 
         .ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle {
@@ -637,8 +637,8 @@
         .elementor-button-wrapper .elementor-button:hover,
         .elementor-button-wrapper .elementor-button:focus {
             color: #ffffff;
-            background-color: #0192bc;
-            border-color: #0192bc;
+            background-color: #00a650;
+            border-color: #00a650;
         }
 
         .wp-block-button .wp-block-button__link,
@@ -689,8 +689,8 @@
         .wp-block-button .wp-block-button__link:hover,
         .wp-block-button .wp-block-button__link:focus {
             color: #ffffff;
-            background-color: #0192bc;
-            border-color: #0192bc;
+            background-color: #00a650;
+            border-color: #00a650;
         }
 
         .menu-toggle,
@@ -737,8 +737,8 @@
         input[type="submit"]:hover,
         input[type="submit"]:focus {
             color: #ffffff;
-            background-color: #0192bc;
-            border-color: #0192bc;
+            background-color: #00a650;
+            border-color: #00a650;
         }
 
         @media (min-width:921px) {
@@ -1154,7 +1154,7 @@
             .ast-theme-transparent-header .ast-masthead-custom-menu-items a,
             .ast-theme-transparent-header .main-header-menu li>.ast-menu-toggle,
             .ast-theme-transparent-header .main-header-menu li>.ast-menu-toggle {
-                color: #0192bc;
+                color: #00a650;
             }
 
             .ast-theme-transparent-header .main-header-menu li:hover>a,
@@ -1168,7 +1168,7 @@
             .ast-theme-transparent-header .main-header-menu .current-menu-item>.ast-menu-toggle,
             .ast-theme-transparent-header .main-header-menu .current-menu-ancestor>.ast-menu-toggle,
             .ast-theme-transparent-header .main-header-menu .current_page_item>.ast-menu-toggle {
-                color: #0192bc;
+                color: #00a650;
             }
         }
 
@@ -1180,7 +1180,7 @@
             .ast-theme-transparent-header .ast-masthead-custom-menu-items a,
             .ast-theme-transparent-header .main-header-menu li>.ast-menu-toggle,
             .ast-theme-transparent-header .main-header-menu li>.ast-menu-toggle {
-                color: #0192bc;
+                color: #00a650;
             }
 
             .ast-theme-transparent-header .main-header-menu li:hover>a,
@@ -1194,7 +1194,7 @@
             .ast-theme-transparent-header .main-header-menu .current-menu-item>.ast-menu-toggle,
             .ast-theme-transparent-header .main-header-menu .current-menu-ancestor>.ast-menu-toggle,
             .ast-theme-transparent-header .main-header-menu .current_page_item>.ast-menu-toggle {
-                color: #0192bc;
+                color: #00a650;
             }
         }
 
@@ -1223,17 +1223,17 @@
 
             .ast-theme-transparent-header .ast-above-header-navigation li.current-menu-item>a,
             .ast-theme-transparent-header .ast-above-header-navigation li.current-menu-ancestor>a {
-                color: #0192bc;
+                color: #00a650;
             }
 
             .ast-theme-transparent-header .ast-above-header-navigation li:hover>a {
-                color: #0192bc;
+                color: #00a650;
             }
 
             .ast-theme-transparent-header .ast-above-header-navigation a,
             .ast-header-break-point.ast-theme-transparent-header .ast-above-header-navigation a,
             .ast-header-break-point.ast-theme-transparent-header .ast-above-header-navigation>ul.ast-above-header-menu>.menu-item-has-children:not(.current-menu-item)>.ast-menu-toggle {
-                color: #0192bc;
+                color: #00a650;
             }
         }
 
@@ -1241,17 +1241,17 @@
 
             .ast-theme-transparent-header .ast-above-header-navigation li.current-menu-item>a,
             .ast-theme-transparent-header .ast-above-header-navigation li.current-menu-ancestor>a {
-                color: #0192bc;
+                color: #00a650;
             }
 
             .ast-theme-transparent-header .ast-above-header-navigation li:hover>a {
-                color: #0192bc;
+                color: #00a650;
             }
 
             .ast-theme-transparent-header .ast-above-header-navigation a,
             .ast-header-break-point.ast-theme-transparent-header .ast-above-header-navigation a,
             .ast-header-break-point.ast-theme-transparent-header .ast-above-header-navigation>ul.ast-above-header-menu>.menu-item-has-children:not(.current-menu-item)>.ast-menu-toggle {
-                color: #0192bc;
+                color: #00a650;
             }
         }
 
@@ -1363,7 +1363,7 @@
         /*        hero image bg color overlay*/
         .elementor-6 .elementor-element.elementor-element-683e60c3>.elementor-background-overlay {
             background-color: transparent;
-            background-image: linear-gradient(45deg, #00a650 0%, #47b482 100%) !important;
+            background-image: linear-gradient(45deg, #00a650 100%, #00a650 100%) !important;
             opacity: .9;
             transition: background .3s, border-radius .3s, opacity .3s;
         }
@@ -1371,7 +1371,7 @@
         /*        about section*/
         .elementor-6 .elementor-element.elementor-element-46cc680e:not(.elementor-motion-effects-element-type-background),
         .elementor-6 .elementor-element.elementor-element-46cc680e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-            background-image: linear-gradient(45deg, #00a650 0%, #47b482 100%) !important;
+            background-image: linear-gradient(45deg, #00a650 100%, #00a650 100%) !important;
         }
 
         /*        services section*/
@@ -1381,12 +1381,12 @@
 
         /*        clients and associates section*/
         .elementor-6 .elementor-element.elementor-element-ac9c780>.elementor-background-overlay {
-            background-image: linear-gradient(45deg, #00a650 0%, #47b482 100%) !important;
+            background-image: linear-gradient(45deg, #00a650 100%, #00a650 100%) !important;
         }
 
         /*        clients and associates section*/
         .elementor-419 .elementor-element.elementor-element-6bd7d94>.elementor-background-overlay {
-            background-image: linear-gradient(45deg, #00a650 0%, #47b482 100%) !important;
+            background-image: linear-gradient(45deg, #00a650 100%, #00a650 100%) !important;
         }
 
         /*        buttons*/
@@ -1416,8 +1416,27 @@
             padding: 125px 0px !important;
         }
 
+        /*        mobile menu*/
+        .ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle {
+            background: #000;
+            color: #00a650;
+        }
+
+/*
+        a:hover {
+        color: rgb(255, 255, 255, 0.6) !important;
+        text-decoration: none !important;
+        }*/
+
+
         body {
             font-family: 'Nunito', sans-serif !important;
+        }
+
+        @media (max-width: 767px) {
+            .elementor-6 .elementor-element.elementor-element-683e60c3 {
+                padding: 200px 10px !important;
+            }
         }
 
     </style>
@@ -1468,10 +1487,7 @@ flexibility(document.documentElement);
         }
 
     </style>
-    <link rel="icon" href="wp-content/uploads/sites/228/2018/07/cropped-favicon-free-img-32x32.png" sizes="32x32" />
-    <link rel="icon" href="wp-content/uploads/sites/228/2018/07/cropped-favicon-free-img-192x192.png" sizes="192x192" />
-    <link rel="apple-touch-icon" href="wp-content/uploads/sites/228/2018/07/cropped-favicon-free-img-180x180.png" />
-    <meta name="msapplication-TileImage" content="https://websitedemos.net/multimed-04/wp-content/uploads/sites/228/2018/07/cropped-favicon-free-img-270x270.png" />
+    <link rel="icon" href="wp-content/uploads/sites/228/2018/07/android-chrome-512x512.png" sizes="512x512" />
 </head>
 
 <body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="home page-template-default page page-id-6 wp-custom-logo ehf-footer ehf-template-astra ehf-stylesheet-astra ast-desktop ast-page-builder-template ast-no-sidebar astra-2.4.4 ast-header-custom-item-inside ast-single-post ast-replace-site-logo-transparent ast-inherit-site-logo-transparent ast-theme-transparent-header elementor-default elementor-kit-556 elementor-page elementor-page-6 astra-addon-2.5.0">
@@ -2289,13 +2305,11 @@ flexibility(document.documentElement);
                                                                 <div class="elementor-element elementor-element-6d21bf7 elementor-column elementor-col-33 elementor-inner-column" data-id="6d21bf7" data-element_type="column">
                                                                     <div class="elementor-column-wrap  elementor-element-populated">
                                                                         <div class="elementor-widget-wrap">
-                                                                            <div class="site-branding">
-                                                                                <div class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
-                                                                                    <span class="site-logo-img"><a href="index.php" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="181" height="65" src="wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
-                                                                            </div>
                                                                             <div class="elementor-element elementor-element-1264b8f elementor-widget elementor-widget-text-editor mt-3" data-id="1264b8f" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
                                                                                     <div class="elementor-text-editor elementor-clearfix">
+                                                                                        <div class="ast-site-identity mb-4" itemtype="https://schema.org/Organization" itemscope="itemscope">
+                                                                                            <span class="site-logo-img"><a href="index.php" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="181" height="65" src="wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
                                                                                         <h6 class="text-light">The Registered Trustees of</h6>
                                                                                         <h2 class="text-light">Kinondoni Hospital</h2>
                                                                                     </div>

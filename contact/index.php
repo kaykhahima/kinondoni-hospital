@@ -144,12 +144,12 @@
 
         a,
         .page-title {
-            color: #0192bc;
+            color: #00a650;
         }
 
         a:hover,
         a:focus {
-            color: #0192bc;
+            color: #00a650;
         }
 
         body,
@@ -301,7 +301,7 @@
         }
 
         ::selection {
-            background-color: #0192bc;
+            background-color: #00a650;
             color: #ffffff;
         }
 
@@ -332,8 +332,8 @@
         .tagcloud a:focus,
         .tagcloud a.current-item {
             color: #ffffff;
-            border-color: #0192bc;
-            background-color: #0192bc;
+            border-color: #00a650;
+            background-color: #00a650;
         }
 
         .main-header-menu a,
@@ -352,7 +352,7 @@
         .main-header-menu .current-menu-item>.ast-menu-toggle,
         .main-header-menu .current-menu-ancestor>.ast-menu-toggle,
         .main-header-menu .current_page_item>.ast-menu-toggle {
-            color: #0192bc;
+            color: #00a650;
         }
 
         input:focus,
@@ -363,7 +363,7 @@
         input[type="reset"]:focus,
         input[type="search"]:focus,
         textarea:focus {
-            border-color: #0192bc;
+            border-color: #00a650;
         }
 
         input[type="radio"]:checked,
@@ -372,15 +372,15 @@
         input[type="checkbox"]:hover:checked,
         input[type="checkbox"]:focus:checked,
         input[type=range]::-webkit-slider-thumb {
-            border-color: #0192bc;
-            background-color: #0192bc;
+            border-color: #00a650;
+            background-color: #00a650;
             box-shadow: none;
         }
 
         .site-footer a:hover+.post-count,
         .site-footer a:focus+.post-count {
-            background: #0192bc;
-            border-color: #0192bc;
+            background: #00a650;
+            border-color: #00a650;
         }
 
         .ast-small-footer {
@@ -414,20 +414,20 @@
         .single .nav-links .nav-next,
         .single .ast-author-details .author-title,
         .ast-comment-meta {
-            color: #0192bc;
+            color: #00a650;
         }
 
         .entry-meta,
         .entry-meta * {
             line-height: 1.45;
-            color: #0192bc;
+            color: #00a650;
         }
 
         .entry-meta a:hover,
         .entry-meta a:hover *,
         .entry-meta a:focus,
         .entry-meta a:focus * {
-            color: #0192bc;
+            color: #00a650;
         }
 
         .ast-404-layout-1 .ast-404-text {
@@ -444,18 +444,18 @@
         #cat option,
         .secondary .calendar_wrap thead a,
         .secondary .calendar_wrap thead a:visited {
-            color: #0192bc;
+            color: #00a650;
         }
 
         .secondary .calendar_wrap #today,
         .ast-progress-val span {
-            background: #0192bc;
+            background: #00a650;
         }
 
         .secondary a:hover+.post-count,
         .secondary a:focus+.post-count {
-            background: #0192bc;
-            border-color: #0192bc;
+            background: #00a650;
+            border-color: #00a650;
         }
 
         .calendar_wrap #today>a {
@@ -465,7 +465,7 @@
         .ast-pagination a,
         .page-links .page-link,
         .single .post-navigation a {
-            color: #0192bc;
+            color: #00a650;
         }
 
         .ast-pagination a:hover,
@@ -475,7 +475,7 @@
         .page-links>.page-link,
         .page-links .page-link:hover,
         .post-navigation a:hover {
-            color: #0192bc;
+            color: #00a650;
         }
 
         .ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle {
@@ -691,8 +691,8 @@
         .elementor-button-wrapper .elementor-button:hover,
         .elementor-button-wrapper .elementor-button:focus {
             color: #ffffff;
-            background-color: #0192bc;
-            border-color: #0192bc;
+            background-color: #00a650;
+            border-color: #00a650;
         }
 
         .wp-block-button .wp-block-button__link,
@@ -743,8 +743,8 @@
         .wp-block-button .wp-block-button__link:hover,
         .wp-block-button .wp-block-button__link:focus {
             color: #ffffff;
-            background-color: #0192bc;
-            border-color: #0192bc;
+            background-color: #00a650;
+            border-color: #00a650;
         }
 
         .menu-toggle,
@@ -791,8 +791,8 @@
         input[type="submit"]:hover,
         input[type="submit"]:focus {
             color: #ffffff;
-            background-color: #0192bc;
-            border-color: #0192bc;
+            background-color: #00a650;
+            border-color: #00a650;
         }
 
         @media (min-width:921px) {
@@ -1208,7 +1208,7 @@
             .ast-theme-transparent-header .ast-masthead-custom-menu-items a,
             .ast-theme-transparent-header .main-header-menu li>.ast-menu-toggle,
             .ast-theme-transparent-header .main-header-menu li>.ast-menu-toggle {
-                color: #0192bc;
+                color: #00a650;
             }
 
             .ast-theme-transparent-header .main-header-menu li:hover>a,
@@ -1222,7 +1222,7 @@
             .ast-theme-transparent-header .main-header-menu .current-menu-item>.ast-menu-toggle,
             .ast-theme-transparent-header .main-header-menu .current-menu-ancestor>.ast-menu-toggle,
             .ast-theme-transparent-header .main-header-menu .current_page_item>.ast-menu-toggle {
-                color: #0192bc;
+                color: #00a650;
             }
         }
 
@@ -1234,7 +1234,7 @@
             .ast-theme-transparent-header .ast-masthead-custom-menu-items a,
             .ast-theme-transparent-header .main-header-menu li>.ast-menu-toggle,
             .ast-theme-transparent-header .main-header-menu li>.ast-menu-toggle {
-                color: #0192bc;
+                color: #00a650;
             }
 
             .ast-theme-transparent-header .main-header-menu li:hover>a,
@@ -1248,7 +1248,7 @@
             .ast-theme-transparent-header .main-header-menu .current-menu-item>.ast-menu-toggle,
             .ast-theme-transparent-header .main-header-menu .current-menu-ancestor>.ast-menu-toggle,
             .ast-theme-transparent-header .main-header-menu .current_page_item>.ast-menu-toggle {
-                color: #0192bc;
+                color: #00a650;
             }
         }
 
@@ -1277,17 +1277,17 @@
 
             .ast-theme-transparent-header .ast-above-header-navigation li.current-menu-item>a,
             .ast-theme-transparent-header .ast-above-header-navigation li.current-menu-ancestor>a {
-                color: #0192bc;
+                color: #00a650;
             }
 
             .ast-theme-transparent-header .ast-above-header-navigation li:hover>a {
-                color: #0192bc;
+                color: #00a650;
             }
 
             .ast-theme-transparent-header .ast-above-header-navigation a,
             .ast-header-break-point.ast-theme-transparent-header .ast-above-header-navigation a,
             .ast-header-break-point.ast-theme-transparent-header .ast-above-header-navigation>ul.ast-above-header-menu>.menu-item-has-children:not(.current-menu-item)>.ast-menu-toggle {
-                color: #0192bc;
+                color: #00a650;
             }
         }
 
@@ -1295,17 +1295,17 @@
 
             .ast-theme-transparent-header .ast-above-header-navigation li.current-menu-item>a,
             .ast-theme-transparent-header .ast-above-header-navigation li.current-menu-ancestor>a {
-                color: #0192bc;
+                color: #00a650;
             }
 
             .ast-theme-transparent-header .ast-above-header-navigation li:hover>a {
-                color: #0192bc;
+                color: #00a650;
             }
 
             .ast-theme-transparent-header .ast-above-header-navigation a,
             .ast-header-break-point.ast-theme-transparent-header .ast-above-header-navigation a,
             .ast-header-break-point.ast-theme-transparent-header .ast-above-header-navigation>ul.ast-above-header-menu>.menu-item-has-children:not(.current-menu-item)>.ast-menu-toggle {
-                color: #0192bc;
+                color: #00a650;
             }
         }
 
@@ -1412,7 +1412,7 @@
 
         /*        contact heading bg*/
         .elementor-12 .elementor-element.elementor-element-7a3f8edb>.elementor-background-overlay {
-            background-image: linear-gradient(135deg, #00a650 50%, #47b482 100%) !important;
+            background-image: linear-gradient(45deg, #00a650 100%, #00a650 100%) !important;
         }
 
         /*icons color*/
@@ -1459,11 +1459,23 @@
 
         /*        footer bg overlay color*/
         .elementor-419 .elementor-element.elementor-element-6bd7d94>.elementor-background-overlay {
-            background-image: linear-gradient(135deg, #00a650 50%, #47b482 100%) !important;
+            background-image: linear-gradient(45deg, #00a650 100%, #00a650 100%) !important;
         }
-        body {
-            font-family: 'Nunito', sans-serif !important;
+
+        /*        mobile menu*/
+        .ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle {
+            background: #000;
+            color: #00a650;
         }
+
+        @media (max-width: 767px) {
+            .elementor-12 .elementor-element.elementor-element-4caab032>.elementor-element-populated {
+                padding: 25px !important;
+            }
+
+            body {
+                font-family: 'Nunito', sans-serif !important;
+            }
 
     </style>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -1515,10 +1527,7 @@ flexibility(document.documentElement);
         }
 
     </style>
-    <link rel="icon" href="../wp-content/uploads/sites/228/2018/07/cropped-favicon-free-img-32x32.png" sizes="32x32" />
-    <link rel="icon" href="../wp-content/uploads/sites/228/2018/07/cropped-favicon-free-img-192x192.png" sizes="192x192" />
-    <link rel="apple-touch-icon" href="../wp-content/uploads/sites/228/2018/07/cropped-favicon-free-img-180x180.png" />
-    <meta name="msapplication-TileImage" content="https://websitedemos.net/multimed-04/wp-content/uploads/sites/228/2018/07/cropped-favicon-free-img-270x270.png" />
+    <link rel="icon" href="../wp-content/uploads/sites/228/2018/07/android-chrome-512x512.png" sizes="512x512" />
 </head>
 
 <body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="page-template-default page page-id-12 wp-custom-logo ehf-footer ehf-template-astra ehf-stylesheet-astra ast-desktop ast-page-builder-template ast-no-sidebar astra-2.4.4 ast-header-custom-item-inside ast-single-post ast-replace-site-logo-transparent ast-inherit-site-logo-transparent ast-theme-transparent-header elementor-default elementor-kit-556 elementor-page elementor-page-12 astra-addon-2.5.0">
@@ -1709,7 +1718,7 @@ flexibility(document.documentElement);
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-49491e2 elementor-widget elementor-widget-text-editor" data-id="49491e2" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                <div class="elementor-widget-container">
+                                                                                                <div class="elementor-widget-container elementor-mobile-align-center">
                                                                                                     <div class="elementor-text-editor elementor-clearfix">
                                                                                                         <p><span class="font-weight-bold">Tel:</span> 2760469</p>
                                                                                                         <p><span class="font-weight-bold">Cell:</span> +255 (0) 785 502 506</p>
@@ -1796,13 +1805,11 @@ flexibility(document.documentElement);
                                                                 <div class="elementor-element elementor-element-6d21bf7 elementor-column elementor-col-33 elementor-inner-column" data-id="6d21bf7" data-element_type="column">
                                                                     <div class="elementor-column-wrap  elementor-element-populated">
                                                                         <div class="elementor-widget-wrap">
-                                                                            <div class="site-branding">
-                                                                                <div class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
-                                                                                    <span class="site-logo-img"><a href="../" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="181" height="65" src="../wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="../wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
-                                                                            </div>
                                                                             <div class="elementor-element elementor-element-1264b8f elementor-widget elementor-widget-text-editor mt-3" data-id="1264b8f" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
                                                                                     <div class="elementor-text-editor elementor-clearfix">
+                                                                                        <div class="ast-site-identity mb-4" itemtype="https://schema.org/Organization" itemscope="itemscope">
+                                                                                            <span class="site-logo-img"><a href="index.php" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="181" height="65" src="../wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="../wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
                                                                                         <h6 class="text-light">The Registered Trustees of</h6>
                                                                                         <h2 class="text-light">Kinondoni Hospital</h2>
                                                                                     </div>
