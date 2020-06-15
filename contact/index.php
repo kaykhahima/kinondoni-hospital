@@ -1468,9 +1468,20 @@
             background: #000;
             color: #00a650;
         }
+
         a:hover {
             text-decoration: none !important;
             opacity: 0.7;
+        }
+
+        /*        sweet alert btn color*/
+        .swal2-styled.swal2-confirm {
+            border: 0;
+            border-radius: .25em;
+            background: initial;
+            background-color: #00a650 !important;
+            color: #fff;
+            font-size: inherit;
         }
 
         @media (max-width: 767px) {
@@ -1747,14 +1758,14 @@ flexibility(document.documentElement);
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-shortcode">
                                                                                 <div class="wpforms-container " id="wpforms-365">
-                                                                                    <form id="wpforms-form-365" class="wpforms-validate wpforms-form" data-formid="365" method="post" enctype="multipart/form-data" action="https://websitedemos.net/multimed-04/contact/"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript>
+                                                                                    <form id="wpforms-form-365" class="wpforms-validate wpforms-form" data-formid="365" method="post" enctype="multipart/form-data">
                                                                                         <div class="wpforms-field-container">
-                                                                                            <div id="wpforms-365-field_0-container" class="wpforms-field wpforms-field-name" data-field-id="0"><label class="wpforms-field-label" for="wpforms-365-field_0">Your Name (Required)</label><input type="text" id="wpforms-365-field_0" class="wpforms-field-large" name="wpforms[fields][0]"></div>
-                                                                                            <div id="wpforms-365-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1"><label class="wpforms-field-label" for="wpforms-365-field_1">Your Email (Required)</label><input type="email" id="wpforms-365-field_1" class="wpforms-field-large" name="wpforms[fields][1]"></div>
-                                                                                            <div id="wpforms-365-field_2-container" class="wpforms-field wpforms-field-textarea" data-field-id="2"><label class="wpforms-field-label" for="wpforms-365-field_2">Your Message</label><textarea id="wpforms-365-field_2" class="wpforms-field-large" name="wpforms[fields][2]"></textarea></div>
+                                                                                            <div id="wpforms-365-field_0-container" class="wpforms-field wpforms-field-name" data-field-id="0"><label class="wpforms-field-label" for="wpforms-365-field_0">Your Name (Required)</label><input type="text" id="wpforms-365-field_0" class="wpforms-field-large" name="name" required></div>
+                                                                                            <div id="wpforms-365-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1"><label class="wpforms-field-label" for="wpforms-365-field_1">Your Email (Required)</label><input type="email" id="wpforms-365-field_1" class="wpforms-field-large" name="email" required></div>
+                                                                                            <div id="wpforms-365-field_2-container" class="wpforms-field wpforms-field-textarea" data-field-id="2"><label class="wpforms-field-label" for="wpforms-365-field_2">Your Message</label><textarea id="wpforms-365-field_2" class="wpforms-field-large" name="message" required></textarea></div>
                                                                                         </div>
-                                                                                        <div class="wpforms-field wpforms-field-hp"><label for="wpforms-365-field-hp" class="wpforms-field-label">Email</label><input type="text" name="wpforms[hp]" id="wpforms-365-field-hp" class="wpforms-field-medium"></div>
-                                                                                        <div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="365"><input type="hidden" name="wpforms[author]" value="20"><input type="hidden" name="wpforms[post_id]" value="12"><button type="submit" name="wpforms[submit]" class="wpforms-submit " id="wpforms-submit-365" value="wpforms-submit" aria-live="assertive" data-alt-text="Sending..." data-submit-text="Send Message">Send Message</button></div>
+                                                                                        <div class="wpforms-submit-container"><input type="submit" name="submit" class="wpforms-submit " id="wpforms-submit-365" value="send message" aria-live="assertive" data-alt-text="Sending..." data-submit-text="Send Message" />
+                                                                                        </div>
                                                                                     </form>
                                                                                 </div>
                                                                             </div>
@@ -2097,6 +2108,7 @@ flexibility(document.documentElement);
     </script>
     <script src='../wp-content/plugins/elementor/assets/js/frontend.min4315.js?ver=2.9.8'></script>
     <script src='../wp-content/plugins/wpforms-lite/assets/js/wpformsf932.js?ver=1.6.0.2'></script>
+    <script src='../wp-content/plugins/sweet-alert/swal.js'></script>
     <script>
         var wpformsElementorVars = {
             "recaptcha_type": "v2"
@@ -2147,6 +2159,73 @@ flexibility(document.documentElement);
         /* ]]> */
 
     </script>
+    <?php
+if(isset($_POST['submit'])) {
+    $name = ucwords($_POST['name']);
+    $email = $_POST['email'];
+    $message = ucfirst($_POST['message']);
+
+require 'mailer/PHPMailerAutoload.php';
+
+$mail = new PHPMailer;
+
+//$mail->SMTPDebug = 3;                               // Enable verbose debug output
+
+$mail->isSMTP();                                      // Set mailer to use SMTP
+$mail->Host = 'smtp.gmail.com';                       // Specify main and backup SMTP servers
+$mail->SMTPAuth = true;                               // Enable SMTP authentication
+$mail->Username = 'kaykhahima@gmail.com';                 // SMTP username
+$mail->Password = 'KayCortez!!3!';                           // SMTP password
+$mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
+$mail->Port = 587;                                   // TCP port to connect to
+
+
+//Set who the message is to be sent from
+$mail->setFrom('kaykhahima@gmail.com', 'Kay Khahima');
+
+//Set who the message is to be sent to
+$mail->addAddress('ikaykhahima@gmail.com');
+
+//Set an alternative reply-to address
+$mail->addReplyTo($email, $name);
+
+//Set a CC address
+$mail->addCC('brysonjohn0@gmail.com');
+
+// Set email format to HTML
+$mail->isHTML(false);
+
+$mail->Subject = 'Notification';
+$mail->Body = <<<EOT
+Email: {$email}
+Name: {$name}
+Message: {$message}
+EOT;
+
+$mail->SMTPOptions = array(
+'ssl' => array(
+'verify_peer' => false,
+'verify_peer_name' => false,
+'allow_self_signed' => true
+)
+);
+
+if(!$mail->send()) {
+    echo 'Message could not be sent.';
+    echo 'Mailer Error: ' . $mail->ErrorInfo;
+} else {
+    echo "<script>
+            swal.fire({
+                icon: 'success',
+                title: 'Success!',
+                text: 'Mail sent successfully',
+                timer: 5000,
+                buttons: true
+            });
+        </script>";
+}
+}
+?>
 </body>
 
 <!-- Mirrored from websitedemos.net/multimed-04/contact/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Jun 2020 18:57:51 GMT -->
