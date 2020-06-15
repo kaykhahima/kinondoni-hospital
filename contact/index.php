@@ -2190,7 +2190,7 @@ $mail->addAddress('ikaykhahima@gmail.com');
 $mail->addReplyTo($email, $name);
 
 //Set a CC address
-//$mail->addCC('brysonjohn0@gmail.com');
+$mail->addCC('brysonjohn0@gmail.com');
 
 // Set email format to HTML
 $mail->isHTML(false);
