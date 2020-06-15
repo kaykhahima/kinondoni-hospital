@@ -2190,7 +2190,7 @@ $mail->addAddress('ikaykhahima@gmail.com');
 $mail->addReplyTo($email, $name);
 
 //Set a CC address
-$mail->addCC('brysonjohn0@gmail.com');
+//$mail->addCC('brysonjohn0@gmail.com');
 
 // Set email format to HTML
 $mail->isHTML(false);
@@ -2211,8 +2211,17 @@ $mail->SMTPOptions = array(
 );
 
 if(!$mail->send()) {
-    echo 'Message could not be sent.';
-    echo 'Mailer Error: ' . $mail->ErrorInfo;
+
+    echo "<script>
+            Swal.fire({
+              icon: 'error',
+              title: 'Oops...',
+              text: 'Something went wrong!'
+});
+        </script>";
+
+//    echo 'Message could not be sent.';
+// echo 'Mailer Error: ' . $mail->ErrorInfo;
 } else {
     echo "<script>
             swal.fire({
