@@ -74,8 +74,8 @@
 
     </script>
 
-    <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-    <link rel='dns-prefetch' href='http://s.w.org/' />
+    <link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
+    <link rel='dns-prefetch' href='https://s.w.org/' />
     <link rel="alternate" type="application/rss+xml" title="MultiMed Clinic &raquo; Feed" href="../feed/index.html" />
     <link rel="alternate" type="application/rss+xml" title="MultiMed Clinic &raquo; Comments Feed" href="../comments/feed/index.html" />
     <script>
@@ -1446,10 +1446,12 @@
             background: #000;
             color: #00a650;
         }
-a:hover {
+
+        a:hover {
             text-decoration: none !important;
             opacity: 0.7;
         }
+
         body {
             font-family: 'Nunito', sans-serif !important;
         }
