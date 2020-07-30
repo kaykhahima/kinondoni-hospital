@@ -1520,6 +1520,8 @@ flexibility(document.documentElement);
                                                 <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-19"><a href="./" aria-current="page">Home</a></li>
                                                 <li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="about/">About</a></li>
                                                 <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="services/">Services</a></li>
+                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="latest-news/">Latest News</a></li>
+                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="vacancies/">Vacancies</a></li>
                                                 <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="contact/">Contact</a></li>
                                             </ul>
                                         </div>
@@ -1744,103 +1746,7 @@ flexibility(document.documentElement);
                                                                                         <div class="elementor-widget-wrap">
                                                                                             <div class="elementor-element elementor-element-3b903a40 elementor-widget elementor-widget-heading" data-id="3b903a40" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <h3 class="elementor-heading-title elementor-size-default">Opening Hours</h3>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </section>
-                                                                    <section class="elementor-element elementor-element-6683ae2a elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="6683ae2a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                                                        <div class="elementor-container elementor-column-gap-no">
-                                                                            <div class="elementor-row">
-                                                                                <div class="elementor-element elementor-element-57559f45 elementor-column elementor-col-50 elementor-inner-column" data-id="57559f45" data-element_type="column">
-                                                                                    <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                        <div class="elementor-widget-wrap">
-                                                                                            <div class="elementor-element elementor-element-81ac58c elementor-widget elementor-widget-text-editor" data-id="81ac58c" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>Weekdays</p>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-element elementor-element-ca7af61 elementor-widget elementor-widget-divider" data-id="ca7af61" data-element_type="widget" data-widget_type="divider.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-divider">
-                                                                                                        <span class="elementor-divider-separator">
-                                                                                                        </span>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="elementor-element elementor-element-72665e52 elementor-column elementor-col-50 elementor-inner-column" data-id="72665e52" data-element_type="column">
-                                                                                    <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                        <div class="elementor-widget-wrap">
-                                                                                            <div class="elementor-element elementor-element-8ff5989 elementor-widget elementor-widget-text-editor" data-id="8ff5989" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>8.00 &#8211; 20.00</p>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-element elementor-element-539b4f14 elementor-widget elementor-widget-divider" data-id="539b4f14" data-element_type="widget" data-widget_type="divider.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-divider">
-                                                                                                        <span class="elementor-divider-separator">
-                                                                                                        </span>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </section>
-                                                                    <section class="elementor-element elementor-element-3a4c250e elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="3a4c250e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                                                        <div class="elementor-container elementor-column-gap-no">
-                                                                            <div class="elementor-row">
-                                                                                <div class="elementor-element elementor-element-303d532a elementor-column elementor-col-50 elementor-inner-column" data-id="303d532a" data-element_type="column">
-                                                                                    <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                        <div class="elementor-widget-wrap">
-                                                                                            <div class="elementor-element elementor-element-0c6bbbb elementor-widget elementor-widget-text-editor" data-id="0c6bbbb" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>Saturday</p>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-element elementor-element-4c797ec1 elementor-widget elementor-widget-divider" data-id="4c797ec1" data-element_type="widget" data-widget_type="divider.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-divider">
-                                                                                                        <span class="elementor-divider-separator">
-                                                                                                        </span>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="elementor-element elementor-element-753d55eb elementor-column elementor-col-50 elementor-inner-column" data-id="753d55eb" data-element_type="column">
-                                                                                    <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                        <div class="elementor-widget-wrap">
-                                                                                            <div class="elementor-element elementor-element-583749d elementor-widget elementor-widget-text-editor" data-id="583749d" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>9:30 &#8211; 17:30</p>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-element elementor-element-519b1139 elementor-widget elementor-widget-divider" data-id="519b1139" data-element_type="widget" data-widget_type="divider.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-divider">
-                                                                                                        <span class="elementor-divider-separator">
-                                                                                                        </span>
-                                                                                                    </div>
+                                                                                                    <h5 class="text-dark mb-0">Working Hours</h5>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -1855,23 +1761,10 @@ flexibility(document.documentElement);
                                                                                 <div class="elementor-element elementor-element-6a376b7d elementor-column elementor-col-50 elementor-inner-column" data-id="6a376b7d" data-element_type="column">
                                                                                     <div class="elementor-column-wrap  elementor-element-populated">
                                                                                         <div class="elementor-widget-wrap">
-                                                                                            <div class="elementor-element elementor-element-a348668 elementor-widget elementor-widget-text-editor" data-id="a348668" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>Sunday</p>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="elementor-element elementor-element-10c9b86d elementor-column elementor-col-50 elementor-inner-column" data-id="10c9b86d" data-element_type="column">
-                                                                                    <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                        <div class="elementor-widget-wrap">
-                                                                                            <div class="elementor-element elementor-element-d9715a9 elementor-widget elementor-widget-text-editor" data-id="d9715a9" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>9:30 &#8211; 15:00</p>
+                                                                                            <div class="elementor-widget-wrap">
+                                                                                                <div class="elementor-element elementor-element-3b903a40 elementor-widget elementor-widget-heading" data-id="3b903a40" data-element_type="widget" data-widget_type="heading.default">
+                                                                                                    <div class="elementor-widget-container">
+                                                                                                        <h3 class="elementor-heading-title elementor-size-default">24/7</h3>
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -2223,6 +2116,30 @@ flexibility(document.documentElement);
                                                                                         <div class="swiper-slide">
                                                                                             <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/sites/228/2018/07/nhif.png" alt="Client logo" /></figure>
                                                                                         </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/sites/228/2018/07/mastercard.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/sites/228/2018/07/visa.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/sites/228/2018/07/mpesa.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/sites/228/2018/07/airtelmoney.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/sites/228/2018/07/tigopesa.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/sites/228/2018/07/tpesa.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/sites/228/2018/07/halopesa.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/sites/228/2018/07/ezypesa.png" alt="Client logo" /></figure>
+                                                                                        </div>
                                                                                     </div>
                                                                                     <div class="elementor-swiper-button elementor-swiper-button-prev">
                                                                                         <i class="eicon-chevron-left" aria-hidden="true"></i>
@@ -2279,6 +2196,24 @@ flexibility(document.documentElement);
                                                     </div>
                                                 </div>
                                             </section>
+
+                                            <section class="elementor-element elementor-element-17aa8342 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="17aa8342" data-element_type="section">
+                                                <div class="elementor-container elementor-column-gap-no">
+                                                    <div class="elementor-row">
+                                                        <div class="elementor-element elementor-element-2ffe83a3 elementor-column elementor-col-100 elementor-top-column" data-id="2ffe83a3" data-element_type="column">
+                                                            <div class="elementor-column-wrap  elementor-element-populated">
+                                                                <div class="elementor-widget-wrap">
+                                                                    <div class="elementor-element elementor-element-2c930c26 elementor-widget elementor-widget-google_maps" data-id="2c930c26" data-element_type="widget" data-widget_type="google_maps.default">
+                                                                        <div class="elementor-widget-container">
+                                                                            <div class="elementor-custom-embed"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31693.83299188031!2d39.22562691833612!3d-6.802770985315438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c4c72242f5221%3A0x55fbfe73d46e99a1!2sKinondoni%20Hospital!5e0!3m2!1sen!2stz!4v1591978137774!5m2!1sen!2stz" width="600" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" theme="dark"></iframe></div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </section>
                                         </div>
                                     </div>
                                 </div>
@@ -2288,203 +2223,12 @@ flexibility(document.documentElement);
                 </div>
             </div>
         </div>
+
         <footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
             <div class='footer-width-fixer'>
                 <div data-elementor-type="wp-post" data-elementor-id="419" class="elementor elementor-419" data-elementor-settings="[]">
                     <div class="elementor-inner">
                         <div class="elementor-section-wrap">
-                            <section class="elementor-element elementor-element-6bd7d94 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6bd7d94" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                <div class="elementor-background-overlay"></div>
-                                <div class="elementor-container elementor-column-gap-default">
-                                    <div class="elementor-row">
-                                        <div class="elementor-element elementor-element-7b111ea elementor-column elementor-col-100 elementor-top-column" data-id="7b111ea" data-element_type="column">
-                                            <div class="elementor-column-wrap  elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                    <section class="elementor-element elementor-element-a8e4937 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="a8e4937" data-element_type="section">
-                                                        <div class="elementor-container elementor-column-gap-default">
-                                                            <div class="elementor-row">
-                                                                <div class="elementor-element elementor-element-6d21bf7 elementor-column elementor-col-33 elementor-inner-column" data-id="6d21bf7" data-element_type="column">
-                                                                    <div class="elementor-column-wrap  elementor-element-populated">
-                                                                        <div class="elementor-widget-wrap">
-                                                                            <div class="elementor-element elementor-element-1264b8f elementor-widget elementor-widget-text-editor mt-3" data-id="1264b8f" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                        <div class="ast-site-identity mb-4" itemtype="https://schema.org/Organization" itemscope="itemscope">
-                                                                                            <span class="site-logo-img"><a href="index.php" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="181" height="65" src="wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
-                                                                                        <h6 class="text-light">The Registered Trustees of</h6>
-                                                                                        <h2 class="text-light">Kinondoni Hospital</h2>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="elementor-column-wrap  elementor-element-populated pt-2">
-                                                                                <div class="elementor-widget-wrap">
-                                                                                    <div class="elementor-element elementor-element-eeacaf8 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="eeacaf8" data-element_type="widget" data-widget_type="button.default">
-                                                                                        <div class="elementor-widget-container pt-0">
-                                                                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31693.83299188031!2d39.22562691833612!3d-6.802770985315438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c4c72242f5221%3A0x55fbfe73d46e99a1!2sKinondoni%20Hospital!5e0!3m2!1sen!2stz!4v1591978137774!5m2!1sen!2stz" width="600" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-element elementor-element-8fddeee elementor-column elementor-col-33 elementor-inner-column" data-id="8fddeee" data-element_type="column">
-                                                                    <div class="elementor-column-wrap  elementor-element-populated">
-                                                                        <div class="elementor-widget-wrap">
-                                                                            <div class="elementor-element elementor-element-f5ae63e elementor-widget elementor-widget-heading" data-id="f5ae63e" data-element_type="widget" data-widget_type="heading.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <h4 class="elementor-heading-title elementor-size-default">Services</h4>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="elementor-element elementor-element-7f31ef9 elementor-widget elementor-widget-divider" data-id="7f31ef9" data-element_type="widget" data-widget_type="divider.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <div class="elementor-divider">
-                                                                                        <span class="elementor-divider-separator">
-                                                                                        </span>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="elementor-element elementor-element-b222bbe elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-icon-list" data-id="b222bbe" data-element_type="widget" data-widget_type="icon-list.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <ul class="elementor-icon-list-items">
-                                                                                        <li class="elementor-icon-list-item">
-                                                                                            <a href="#"> <span class="elementor-icon-list-icon">
-                                                                                                    <i aria-hidden="true" class="fas fa-minus"></i> </span>
-                                                                                                <span class="elementor-icon-list-text">3D Ultrasound</span>
-                                                                                            </a>
-                                                                                        </li>
-                                                                                        <li class="elementor-icon-list-item">
-                                                                                            <a href="#"> <span class="elementor-icon-list-icon">
-                                                                                                    <i aria-hidden="true" class="fas fa-minus"></i> </span>
-                                                                                                <span class="elementor-icon-list-text">X-Ray</span>
-                                                                                            </a>
-                                                                                        </li>
-                                                                                        <li class="elementor-icon-list-item">
-                                                                                            <a href="#"> <span class="elementor-icon-list-icon">
-                                                                                                    <i aria-hidden="true" class="fas fa-minus"></i> </span>
-                                                                                                <span class="elementor-icon-list-text">CT-Scan</span>
-                                                                                            </a>
-                                                                                        </li>
-                                                                                        <li class="elementor-icon-list-item">
-                                                                                            <a href="#"> <span class="elementor-icon-list-icon">
-                                                                                                    <i aria-hidden="true" class="fas fa-minus"></i> </span>
-                                                                                                <span class="elementor-icon-list-text">Dental Unit</span>
-                                                                                            </a>
-                                                                                        </li>
-                                                                                        <li class="elementor-icon-list-item">
-                                                                                            <a href="#"> <span class="elementor-icon-list-icon">
-                                                                                                    <i aria-hidden="true" class="fas fa-minus"></i> </span>
-                                                                                                <span class="elementor-icon-list-text">Social Welfare Programs</span>
-                                                                                            </a>
-                                                                                        </li>
-                                                                                        <li class="elementor-icon-list-item">
-                                                                                            <a href="#"> <span class="elementor-icon-list-icon">
-                                                                                                    <i aria-hidden="true" class="fas fa-minus"></i> </span>
-                                                                                                <span class="elementor-icon-list-text">Physiotherapy</span>
-                                                                                            </a>
-                                                                                        </li>
-                                                                                        <li class="elementor-icon-list-item">
-                                                                                            <a href="#"> <span class="elementor-icon-list-icon">
-                                                                                                    <i aria-hidden="true" class="fas fa-minus"></i> </span>
-                                                                                                <span class="elementor-icon-list-text">Care and Treatment Center</span>
-                                                                                            </a>
-                                                                                        </li>
-                                                                                        <li class="elementor-icon-list-item">
-                                                                                            <a href="#"> <span class="elementor-icon-list-icon">
-                                                                                                    <i aria-hidden="true" class="fas fa-minus"></i> </span>
-                                                                                                <span class="elementor-icon-list-text">Laboratory</span>
-                                                                                            </a>
-                                                                                        </li>
-                                                                                        <li class="elementor-icon-list-item">
-                                                                                            <a href="#"> <span class="elementor-icon-list-icon">
-                                                                                                    <i aria-hidden="true" class="fas fa-minus"></i> </span>
-                                                                                                <span class="elementor-icon-list-text">Theatre</span>
-                                                                                            </a>
-                                                                                        </li>
-                                                                                        <li class="elementor-icon-list-item">
-                                                                                            <a href="#"> <span class="elementor-icon-list-icon">
-                                                                                                    <i aria-hidden="true" class="fas fa-minus"></i> </span>
-                                                                                                <span class="elementor-icon-list-text">Reproductive Child Health</span>
-                                                                                            </a>
-                                                                                        </li>
-                                                                                        <li class="elementor-icon-list-item">
-                                                                                            <a href="#"> <span class="elementor-icon-list-icon">
-                                                                                                    <i aria-hidden="true" class="fas fa-minus"></i> </span>
-                                                                                                <span class="elementor-icon-list-text">ICU</span>
-                                                                                            </a>
-                                                                                        </li>
-                                                                                    </ul>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-element elementor-element-765dff7 elementor-column elementor-col-33 elementor-inner-column" data-id="765dff7" data-element_type="column">
-                                                                    <div class="elementor-column-wrap  elementor-element-populated">
-                                                                        <div class="elementor-widget-wrap">
-                                                                            <div class="elementor-element elementor-element-546fa8e elementor-widget elementor-widget-heading" data-id="546fa8e" data-element_type="widget" data-widget_type="heading.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <h4 class="elementor-heading-title elementor-size-default">Contact Info</h4>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="elementor-element elementor-element-2c923d2 elementor-widget elementor-widget-divider" data-id="2c923d2" data-element_type="widget" data-widget_type="divider.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <div class="elementor-divider">
-                                                                                        <span class="elementor-divider-separator">
-                                                                                        </span>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="elementor-element elementor-element-0134d55 elementor-widget elementor-widget-heading" data-id="0134d55" data-element_type="widget" data-widget_type="heading.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <h5 class="elementor-heading-title elementor-size-default">Address</h5>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="elementor-element elementor-element-afbebdb elementor-widget elementor-widget-text-editor" data-id="afbebdb" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                        <p>Kawawa Road, Plot No. 4Block 37A, Kinondoni, P.O.Box 35024, Dar Es Salaam </p>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="elementor-element elementor-element-7df226a elementor-widget elementor-widget-heading" data-id="7df226a" data-element_type="widget" data-widget_type="heading.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <h5 class="elementor-heading-title elementor-size-default">Contacts</h5>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="elementor-element elementor-element-49491e2 elementor-widget elementor-widget-text-editor" data-id="49491e2" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                        <p class="mb-0">Tel: 2760469</p>
-                                                                                        <p class="mb-0">Cell: +255 (0) 785 502 506</p>
-                                                                                        <p>Fax: 0222761473</p>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="elementor-element elementor-element-6e54e8e elementor-widget elementor-widget-heading" data-id="6e54e8e" data-element_type="widget" data-widget_type="heading.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <h5 class="elementor-heading-title elementor-size-default">Email</h5>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="elementor-element elementor-element-9ef1ff7 elementor-widget elementor-widget-text-editor" data-id="9ef1ff7" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                <div class="elementor-widget-container">
-                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                        <p><a href="#" class="__cf_email__ text-light" data-cfemail="cdaea2a3b9acaeb98daea1a4a3a4aee3aea2a0">info@kinondonihospital.co.tz</a></p>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </section>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
                             <section class="elementor-element elementor-element-4ad1789 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4ad1789" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                 <div class="elementor-container elementor-column-gap-default">
                                     <div class="elementor-row">

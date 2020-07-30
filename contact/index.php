@@ -11,7 +11,6 @@
         var gtm4wp_datalayer_name = "dataLayer";
         var dataLayer = dataLayer || [];
         //]]>
-
     </script>
 
 
@@ -63,7 +62,6 @@
                 }]
             }]
         }
-
     </script>
 
     <link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
@@ -119,7 +117,6 @@
                 "complete" === a.readyState && t.readyCallback()
             })), (r = t.source || {}).concatemoji ? d(r.concatemoji) : r.wpemoji && r.twemoji && (d(r.twemoji), d(r.wpemoji)))
         }(window, document, window._wpemojiSettings);
-
     </script>
     <style>
         img.wp-smiley,
@@ -134,7 +131,6 @@
             background: none !important;
             padding: 0 !important;
         }
-
     </style>
     <link rel='stylesheet' id='astra-theme-css-css' href='../wp-content/themes/astra/assets/css/minified/style.minfc3c.css?ver=2.4.4' media='all' />
     <style id='astra-theme-css-inline-css'>
@@ -1492,7 +1488,6 @@
             body {
                 font-family: 'Nunito', sans-serif !important;
             }
-
     </style>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
@@ -1533,7 +1528,6 @@ flexibility(document.documentElement);
 
     <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
         //<![CDATA[//]]>
-
     </script>
     <style>
         .recentcomments a {
@@ -1541,7 +1535,6 @@ flexibility(document.documentElement);
             padding: 0 !important;
             margin: 0 !important;
         }
-
     </style>
     <link rel="icon" href="../wp-content/uploads/sites/228/2018/07/android-chrome-512x512.png" sizes="512x512" />
 </head>
@@ -1575,6 +1568,8 @@ flexibility(document.documentElement);
                                                 <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-19"><a href="../">Home</a></li>
                                                 <li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="../about/">About</a></li>
                                                 <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="../services/">Services</a></li>
+                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="../latest-news/">Latest News</a></li>
+                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="../vacancies/">Vacancies</a></li>
                                                 <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-12 current_page_item menu-item-14"><a href="./" aria-current="page">Contact</a></li>
                                             </ul>
                                         </div>
@@ -2042,14 +2037,12 @@ flexibility(document.documentElement);
             "break_point": "796",
             "isRtl": ""
         };
-
     </script>
     <script src='../wp-content/themes/astra/assets/js/minified/style.minfc3c.js?ver=2.4.4'></script>
     <script>
         var astraAddon = {
             "sticky_active": "1"
         };
-
     </script>
     <script src='../wp-content/uploads/sites/228/astra-addon/astra-addon-5ec62d869b4405-485478740875.js?ver=2.5.0'></script>
     <script src='../wp-includes/js/wp-embed.minc225.js?ver=5.4.1'></script>
@@ -2104,7 +2097,6 @@ flexibility(document.documentElement);
                 "featuredImage": false
             }
         };
-
     </script>
     <script src='../wp-content/plugins/elementor/assets/js/frontend.min4315.js?ver=2.9.8'></script>
     <script src='../wp-content/plugins/wpforms-lite/assets/js/wpformsf932.js?ver=1.6.0.2'></script>
@@ -2113,7 +2105,6 @@ flexibility(document.documentElement);
         var wpformsElementorVars = {
             "recaptcha_type": "v2"
         };
-
     </script>
     <script src='../wp-content/plugins/wpforms-lite/assets/js/integrations/wpforms-elementor.minf932.js?ver=1.6.0.2'></script>
     <script src='../wp-content/plugins/wpforms-lite/assets/js/jquery.validate.minb3a6.js?ver=1.19.0'></script>
@@ -2123,7 +2114,6 @@ flexibility(document.documentElement);
             var t, e = location.hash.substring(1);
             /^[A-z0-9_-]+$/.test(e) && (t = document.getElementById(e)) && (/^(?:a|select|input|button|textarea)$/i.test(t.tagName) || (t.tabIndex = -1), t.focus())
         }, !1);
-
     </script>
     <script type='text/javascript'>
         /* <![CDATA[ */
@@ -2157,7 +2147,6 @@ flexibility(document.documentElement);
             "mailcheck_toplevel_domains": ["dev"]
         }
         /* ]]> */
-
     </script>
     <?php
 if(isset($_POST['submit'])) {
