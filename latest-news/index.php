@@ -1611,7 +1611,7 @@ flexibility(document.documentElement);
                                                     </div>
                                                 </div>
                                             </section>
-                                            news here
+                                            news here..
                                             <!--                                          section here-->
                                         </div>
                                     </div>
