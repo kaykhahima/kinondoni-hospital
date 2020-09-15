@@ -1989,7 +1989,7 @@ flexibility(document.documentElement);
 
         try {
             //Server settings
-            //    $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output
+            $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output
             $mail->isSMTP();                                            // Send using SMTP
             $mail->Host       = 'smtp.gmail.com';                    // Set the SMTP server to send through
             $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
@@ -2027,17 +2027,7 @@ flexibility(document.documentElement);
             );
 
 
-            if(!$mail->send()) {
-                echo "<script>
-                        Swal.fire({
-                          icon: 'error',
-                          title: 'Oops...',
-                          text: 'Something went wrong!'
-                        });
-                    </script>";
-                echo 'Mailer Error: ' . $mail->ErrorInfo;
-            }
-            else {
+            if($mail->send()) {
                 echo "<script>
                     swal.fire({
                         icon: 'success',
@@ -2051,6 +2041,13 @@ flexibility(document.documentElement);
 
         }
         catch (Exception $e) {
+            echo "<script>
+                        Swal.fire({
+                          icon: 'error',
+                          title: 'Oops...',
+                          text: 'Something went wrong!'
+                        });
+                    </script>";
             echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
         }
 }
