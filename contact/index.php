@@ -2030,7 +2030,7 @@ if(!$mail->send()) {
         </script>";
 
 //    echo 'Message could not be sent.';
-// echo 'Mailer Error: ' . $mail->ErrorInfo;
+ echo 'Mailer Error: ' . $mail->ErrorInfo;
 } else {
     echo "<script>
             swal.fire({
@@ -2045,7 +2045,5 @@ if(!$mail->send()) {
 }
 ?>
 </body>
-
-<!-- Mirrored from websitedemos.net/multimed-04/contact/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Jun 2020 18:57:51 GMT -->
 
 </html>
