@@ -1759,7 +1759,7 @@ flexibility(document.documentElement);
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-shortcode">
                                                                                 <div class="wpforms-container " id="wpforms-365">
-                                                                                    <form id="wpforms-form-365" class="wpforms-validate wpforms-form" data-formid="365" method="post" action="index.php" enctype="multipart/form-data">
+                                                                                    <form id="wpforms-form-365" class="wpforms-validate wpforms-form" data-formid="365" method="post" enctype="multipart/form-data">
                                                                                         <div class="wpforms-field-container">
                                                                                             <div id="wpforms-365-field_0-container" class="wpforms-field wpforms-field-name" data-field-id="0"><label class="wpforms-field-label" for="wpforms-365-field_0">Your Name (Required)</label><input type="text" id="wpforms-365-field_0" class="wpforms-field-large" name="name" required></div>
                                                                                             <div id="wpforms-365-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1"><label class="wpforms-field-label" for="wpforms-365-field_1">Your Email (Required)</label><input type="email" id="wpforms-365-field_1" class="wpforms-field-large" name="email" required></div>
