@@ -1969,80 +1969,110 @@ flexibility(document.documentElement);
 
     </script>
     <?php
-if(isset($_POST['submit'])) {
-    $name = ucwords($_POST['name']);
-    $email = $_POST['email'];
-    $message = ucfirst($_POST['message']);
 
-require 'mailer/PHPMailerAutoload.php';
+    // Import PHPMailer classes into the global namespace
+    // These must be at the top of your script, not inside a function
+    use PHPMailer\PHPMailer\PHPMailer;
+    use PHPMailer\PHPMailer\SMTP;
+    use PHPMailer\PHPMailer\Exception;
 
-$mail = new PHPMailer;
+    if(isset($_POST['submit'])) {
+        $name = ucwords($_POST['name']);
+        $email = $_POST['email'];
+        $message = ucfirst($_POST['message']);
 
-//$mail->SMTPDebug = 3;                               // Enable verbose debug output
+        // Load Composer's autoloader
+        require '../vendor/autoload.php';
 
-$mail->isSMTP();                                      // Set mailer to use SMTP
-$mail->Host = 'smtp.gmail.com';                       // Specify main and backup SMTP servers
-$mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->Username = 'ikaykhahima@gmail.com';                 // SMTP username
-$mail->Password = 'MpA0o3i4fvD2iipo';                           // SMTP password
-$mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
-$mail->Port = 587;                                   // TCP port to connect to
+        // Instantiation and passing `true` enables exceptions
+        $mail = new PHPMailer(true);
+
+        try {
+            //Server settings
+            //    $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output
+            $mail->isSMTP();                                            // Send using SMTP
+            $mail->Host       = 'smtp.gmail.com';                    // Set the SMTP server to send through
+            $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
+            $mail->Username   = 'ikaykhahima@gmail.com';                     // SMTP username
+            $mail->Password   = 'MpA0o3i4fvD2iipo';                               // SMTP password
+            $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
+            $mail->Port       = 587;                                    // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
+
+            //Recipients
+            $mail->setFrom('kaykhahima@gmail.com', 'Kay Khahima');
+            $mail->addAddress('kaykhahima@gmail.com', 'Kay Khahima');     // Add a recipient
+        //    $mail->addAddress('ellen@example.com');               // Name is optional
+        //    $mail->addReplyTo('info@example.com', 'Information');
+        //    $mail->addCC('cc@example.com');
+        //    $mail->addBCC('bcc@example.com');
+
+            $mail->addReplyTo($email, $name);
+
+            // Attachments
+        //    $mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
+        //    $mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
+
+            // Content
+            $mail->isHTML(true);                                  // Set email format to HTML
+            $mail->Subject = 'WEBSITE EMAIL';
+            $mail->Body    = $message;
+            $mail->AltBody = $message;
+
+//            $mail->SMTPOptions = array(
+//                'ssl' => array(
+//                'verify_peer' => false,
+//                'verify_peer_name' => false,
+//                'allow_self_signed' => true
+//                )
+//            );
 
 
-//Set who the message is to be sent from
-$mail->setFrom('kaykhahima@gmail.com', 'Kay Khahima');
+            if(!$mail->send()) {
+                echo "<script>
+                        Swal.fire({
+                          icon: 'error',
+                          title: 'Oops...',
+                          text: 'Something went wrong!'
+                        });
+                    </script>";
+                echo 'Mailer Error: ' . $mail->ErrorInfo;
+            }
+            else {
+                echo "<script>
+                    swal.fire({
+                        icon: 'success',
+                        title: 'Success!',
+                        text: 'Mail sent successfully',
+                        timer: 5000,
+                        buttons: true
+                    });
+                </script>";
+                $mail->send();
+            }
 
-//Set who the message is to be sent to
-$mail->addAddress('ikaykhahima@gmail.com');
-
-//Set an alternative reply-to address
-$mail->addReplyTo($email, $name);
-
-//Set a CC address
-$mail->addCC('brysonjohn0@gmail.com');
-
-// Set email format to HTML
-$mail->isHTML(false);
-
-$mail->Subject = 'Notification';
-$mail->Body = <<<EOT
-Email: {$email}
-Name: {$name}
-Message: {$message}
-EOT;
-
-$mail->SMTPOptions = array(
-'ssl' => array(
-'verify_peer' => false,
-'verify_peer_name' => false,
-'allow_self_signed' => true
-)
-);
-
-if(!$mail->send()) {
-
-    echo "<script>
-            Swal.fire({
-              icon: 'error',
-              title: 'Oops...',
-              text: 'Something went wrong!'
-});
-        </script>";
-
-//    echo 'Message could not be sent.';
- echo 'Mailer Error: ' . $mail->ErrorInfo;
-} else {
-    echo "<script>
-            swal.fire({
-                icon: 'success',
-                title: 'Success!',
-                text: 'Mail sent successfully',
-                timer: 5000,
-                buttons: true
-            });
-        </script>";
+        }
+        catch (Exception $e) {
+            echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+        }
 }
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ?>
 </body>
 
