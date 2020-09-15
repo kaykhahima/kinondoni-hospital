@@ -1517,7 +1517,7 @@ flexibility(document.documentElement);
                                     <nav class="ast-flex-grow-1 navigation-accessibility" id="site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope">
                                         <div class="main-navigation">
                                             <ul id="primary-menu" class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border">
-                                                <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-19"><a href="./" aria-current="page">Homee</a></li>
+                                                <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-19"><a href="./" aria-current="page">Home</a></li>
                                                 <li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="about/">About</a></li>
                                                 <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="services/">Services</a></li>
                                                 <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="latest-news/">Latest News</a></li>
@@ -1713,7 +1713,7 @@ flexibility(document.documentElement);
                                                                                         <div class="elementor-widget-wrap">
                                                                                             <div class="elementor-element elementor-element-2944fae0 elementor-widget elementor-widget-heading" data-id="2944fae0" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <h3 class="elementor-heading-title elementor-size-default">Emergency Cases</h3>
+                                                                                                    <h3 class="elementor-heading-title elementor-size-default elementor-mobile-align-center">Emergency Cases</h3>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-7ea4293 elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-widget elementor-widget-icon-box" data-id="7ea4293" data-element_type="widget" data-widget_type="icon-box.default">
@@ -1764,7 +1764,7 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-widget-wrap">
                                                                                                 <div class="elementor-element elementor-element-3b903a40 elementor-widget elementor-widget-heading" data-id="3b903a40" data-element_type="widget" data-widget_type="heading.default">
                                                                                                     <div class="elementor-widget-container">
-                                                                                                        <h3 class="elementor-heading-title elementor-size-default">24/7</h3>
+                                                                                                        <h3 class="elementor-heading-title elementor-size-default ">24/7</h3>
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -2005,17 +2005,17 @@ flexibility(document.documentElement);
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-1d6117ae elementor-widget elementor-widget-heading" data-id="1d6117ae" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h4 class="elementor-heading-title elementor-size-default">This Is the Best Medical Centre...</h4>
+                                                                            <h4 class="elementor-heading-title elementor-size-default">This Is the Best Medical Centre</h4>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-71c4d00 elementor-widget elementor-widget-heading" data-id="71c4d00" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h3 class="elementor-heading-title elementor-size-default">I’ve Been Coming Here for about 2 Years and It Is Simply the Best...</h3>
+                                                                            <h3 class="elementor-heading-title elementor-size-default">I’ve Been Coming Here for about 2 Years and It Is Simply the Best</h3>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-2695cca9 elementor-widget elementor-widget-text-editor" data-id="2695cca9" data-element_type="widget" data-widget_type="text-editor.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <div class="elementor-text-editor elementor-clearfix">Randy Burns</div>
+                                                                            <div class="elementor-text-editor elementor-clearfix">Mrs. Irene James</div>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-78e6cf01 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="78e6cf01" data-element_type="widget" data-widget_type="button.default">
@@ -2040,7 +2040,7 @@ flexibility(document.documentElement);
                                                                     <div class="elementor-element elementor-element-fb17239 elementor-widget elementor-widget-image" data-id="fb17239" data-element_type="widget" data-widget_type="image.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
-                                                                                <img width="670" height="400" src="wp-content/uploads/sites/228/2020/02/home-img-01.jpg" class="attachment-full size-full" alt="" srcset="https://websitedemos.net/multimed-04/wp-content/uploads/sites/228/2020/02/home-img-01.jpg 670w, https://websitedemos.net/multimed-04/wp-content/uploads/sites/228/2020/02/home-img-01-300x179.jpg 300w, https://websitedemos.net/multimed-04/wp-content/uploads/sites/228/2020/02/home-img-01-400x239.jpg 400w" sizes="(max-width: 670px) 100vw, 670px" /> </div>
+                                                                                <img width="670" height="400" src="wp-content/uploads/sites/228/2020/02/home-img-01.jpg" class="attachment-full size-full" alt="" sizes="(max-width: 670px) 100vw, 670px" /> </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2223,6 +2223,7 @@ flexibility(document.documentElement);
                 </div>
             </div>
         </div>
+
 
         <footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
             <div class='footer-width-fixer'>
