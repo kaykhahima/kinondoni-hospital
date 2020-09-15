@@ -2057,22 +2057,6 @@ flexibility(document.documentElement);
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ?>
 </body>
 
