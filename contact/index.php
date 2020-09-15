@@ -2014,7 +2014,7 @@ flexibility(document.documentElement);
 
             // Content
             $mail->isHTML(true);                                  // Set email format to HTML
-            $mail->Subject = 'WEBSITE EMAIL';
+            $mail->Subject = 'AN EMAIL FROM THE WEBSITE';
             $mail->Body    = $message;
             $mail->AltBody = $message;
 
@@ -2047,7 +2047,6 @@ flexibility(document.documentElement);
                         buttons: true
                     });
                 </script>";
-                $mail->send();
             }
 
         }
