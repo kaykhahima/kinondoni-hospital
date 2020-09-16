@@ -1989,12 +1989,12 @@ flexibility(document.documentElement);
 
         try {
             //Server settings
-            $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output
+//            $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output
             $mail->isSMTP();                                            // Send using SMTP
-            $mail->Host       = 'mail.smtp2go.com';                    // Set the SMTP server to send through
+            $mail->Host       = 'smtp.gmail.com';                    // Set the SMTP server to send through
             $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
-            $mail->Username   = 'khakismtp2go';                     // SMTP username
-            $mail->Password   = '3fa7umq96hc8krtz';                               // SMTP password
+            $mail->Username   = 'ikaykhahima@gmail.com';                     // SMTP username
+            $mail->Password   = 'MpA0o3i4fvD2iipo';                               // SMTP password
             $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
 //            $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
             // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
@@ -2002,8 +2002,8 @@ flexibility(document.documentElement);
 //            $mail->Port       = 587;                                    // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
 
             //Recipients
-            $mail->setFrom('kay@khakidevelopers.com', 'Kay Khahima');
-            $mail->addAddress('kay@khakidevelopers.com', 'Kay Khahima');     // Add a recipient
+            $mail->setFrom('kaykhahima@gmail.com', 'Kay Khahima');
+            $mail->addAddress('kaykhahima@gmail.com', 'Kay Khahima');     // Add a recipient
         //    $mail->addAddress('ellen@example.com');               // Name is optional
         //    $mail->addReplyTo('info@example.com', 'Information');
         //    $mail->addCC('cc@example.com');
