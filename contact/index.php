@@ -1556,7 +1556,7 @@ flexibility(document.documentElement);
                         <div class="ast-flex main-header-container">
                             <div class="site-branding">
                                 <div class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
-                                    <span class="site-logo-img"><a href="../" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="181" height="65" src="../wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="../wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
+                                    <span class="site-logo-img"><a href="../" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="250" src="../wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="../wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
                             </div>
 
                             <div class="ast-mobile-menu-buttons">
@@ -1625,7 +1625,7 @@ flexibility(document.documentElement);
                                                     </div>
                                                 </div>
                                             </section>
-                                            <section class="elementor-element elementor-element-7bd99371 elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="7bd99371" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                            <section class="elementor-element elementor-element-7bd99371 elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="7bd99371" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" id="contact-form">
                                                 <div class="elementor-background-overlay"></div>
                                                 <div class="elementor-container elementor-column-gap-no">
                                                     <div class="elementor-row">

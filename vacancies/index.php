@@ -1542,7 +1542,7 @@ flexibility(document.documentElement);
                         <div class="ast-flex main-header-container">
                             <div class="site-branding">
                                 <div class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
-                                    <span class="site-logo-img"><a href="../" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="181" height="65" src="../wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="../wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
+                                    <span class="site-logo-img"><a href="../" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="250" src="../wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="../wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
                             </div>
 
                             <div class="ast-mobile-menu-buttons">
@@ -1560,7 +1560,7 @@ flexibility(document.documentElement);
                                             <ul id="primary-menu" class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border">
                                                 <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-19"><a href="../">Home</a></li>
                                                 <li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="../about/">About</a></li>
-                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-17"><a href="./" aria-current="page">Services</a></li>
+                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-17"><a href="../services/" aria-current="page">Services</a></li>
                                                 <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="../latest-news/">Latest News</a></li>
                                                 <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="./">Vacancies</a></li>
                                                 <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="../contact/">Contact</a></li>

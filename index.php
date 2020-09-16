@@ -1501,7 +1501,7 @@ flexibility(document.documentElement);
                         <div class="ast-flex main-header-container">
                             <div class="site-branding">
                                 <div class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
-                                    <span class="site-logo-img"><a href="./" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="181" height="65" src="wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
+                                    <span class="site-logo-img"><a href="./" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="250" src="wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
                             </div>
 
                             <div class="ast-mobile-menu-buttons">
@@ -2180,7 +2180,7 @@ flexibility(document.documentElement);
                                                                     <div class="elementor-element elementor-element-53b8686e elementor-align-center elementor-widget elementor-widget-button" data-id="53b8686e" data-element_type="widget" data-widget_type="button.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-button-wrapper">
-                                                                                <a href="contact/" class="elementor-button-link elementor-button elementor-custom-btn elementor-size-sm" role="button">
+                                                                                <a href="contact/#contact-form" class="elementor-button-link elementor-button elementor-custom-btn elementor-size-sm" role="button">
                                                                                     <span class="elementor-button-content-wrapper">
                                                                                         <span class="elementor-button-icon elementor-align-icon-right">
                                                                                             <i aria-hidden="true" class="fas fa-angle-right"></i> </span>
