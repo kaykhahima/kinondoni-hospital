@@ -1474,10 +1474,7 @@ flexibility(document.documentElement);
         }
 
     </style>
-    <link rel="icon" href="../wp-content/uploads/sites/228/2018/07/cropped-favicon-free-img-32x32.png" sizes="32x32" />
-    <link rel="icon" href="../wp-content/uploads/sites/228/2018/07/cropped-favicon-free-img-192x192.png" sizes="192x192" />
-    <link rel="apple-touch-icon" href="../wp-content/uploads/sites/228/2018/07/cropped-favicon-free-img-180x180.png" />
-    <meta name="msapplication-TileImage" content="https://websitedemos.net/multimed-04/wp-content/uploads/sites/228/2018/07/cropped-favicon-free-img-270x270.png" />
+    <link rel="icon" href="../wp-content/uploads/sites/228/2018/07/android-chrome-512x512.png" sizes="512x512" />
 </head>
 
 <body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="page-template-default page page-id-11 wp-custom-logo ehf-footer ehf-template-astra ehf-stylesheet-astra ast-desktop ast-page-builder-template ast-no-sidebar astra-2.4.4 ast-header-custom-item-inside ast-single-post ast-replace-site-logo-transparent ast-inherit-site-logo-transparent ast-theme-transparent-header elementor-default elementor-kit-556 elementor-page elementor-page-11 astra-addon-2.5.0">
