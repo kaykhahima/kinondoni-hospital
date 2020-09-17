@@ -1912,7 +1912,7 @@ flexibility(document.documentElement);
                                                 <div class="elementor-widget-wrap">
                                                     <div class="elementor-element elementor-element-f232ba6 elementor-widget elementor-widget-heading" data-id="f232ba6" data-element_type="widget" data-widget_type="heading.default">
                                                         <div class="elementor-widget-container">
-                                                            <h6 class="elementor-heading-title elementor-size-default"><span class="text-dark">Made by </span><a href="#"> Khaki Developers</a></h6>
+                                                            <h6 class="elementor-heading-title elementor-size-default"><span class="text-dark">Made by </span><a href="https://khakidevelopers.com/" target="_blank"> Khaki Developers</a></h6>
                                                         </div>
                                                     </div>
                                                 </div>
