@@ -1524,6 +1524,7 @@ flexibility(document.documentElement);
                                                 <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-19"><a href="../">Home</a></li>
                                                 <li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7 current_page_item menu-item-18"><a href="./" aria-current="page">About</a></li>
                                                 <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="../services/">Services</a></li>
+                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-17"><a href="../our-staff/" aria-current="page">Our Staff</a></li>
                                                 <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="../latest-news/">Latest News</a></li>
                                                 <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="../vacancies/">Vacancies</a></li>
                                                 <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="../contact/">Contact</a></li>
@@ -1816,7 +1817,7 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-c1bc619 elementor-widget elementor-widget-image" data-id="c1bc619" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img width="700" height="500" src="../wp-content/uploads/sites/khs/about-01.jpg" class="attachment-large size-large" alt="" sizes="(max-width: 700px) 100vw, 700px" /> </div>
+                                                                                                        <img width="700" height="500" src="../wp-content/uploads/sites/228/2020/02/home-img-01.jpg" class="attachment-large size-large" alt="" sizes="(max-width: 700px) 100vw, 700px" /> </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -1825,9 +1826,14 @@ flexibility(document.documentElement);
                                                                                 <div class="elementor-element elementor-element-e7863f1 elementor-column elementor-col-50 elementor-inner-column" data-id="e7863f1" data-element_type="column">
                                                                                     <div class="elementor-column-wrap  elementor-element-populated">
                                                                                         <div class="elementor-widget-wrap">
+                                                                                            <div class="elementor-element elementor-element-33272e4e elementor-widget elementor-widget-heading" data-id="33272e4e" data-element_type="widget" data-widget_type="heading.default">
+                                                                                                <div class="elementor-widget-container">
+                                                                                                    <h4 class="elementor-heading-title elementor-size-default">Healthy Patients</h4>
+                                                                                                </div>
+                                                                                            </div>
                                                                                             <div class="elementor-element elementor-element-288388e7 elementor-widget elementor-widget-heading" data-id="288388e7" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <h2 class="elementor-heading-title elementor-size-default">Our Staff</h2>
+                                                                                                    <h2 class="elementor-heading-title elementor-size-default">Our Satisfied Patients</h2>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-48afa110 elementor-widget elementor-widget-divider" data-id="48afa110" data-element_type="widget" data-widget_type="divider.default">
@@ -1841,9 +1847,7 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-645d28f0 elementor-widget elementor-widget-text-editor" data-id="645d28f0" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>The Registered Trustees of Kinondoni Hospital has numerous Doctors, Medical
-                                                                                                            Doctors and visiting Specialist Doctors. There is a dedicated team of Nursing Assistants under close supervision of senior Registered Nurses. The laboratory has experienced Technicians and assistants for reliable pathological investigations. The Radiology, Dental and CTC departments have renowned specialists to undertake the most
-                                                                                                            skill demanding tasks.</p>
+                                                                                                        <p>We provide quality health services to the public with a focus on low income earners in the locale that the hospital is placed. Together with partnering with insurance companies that cater to the needs of the public, we also employ the services of highly trained medical specialists to undertake more complex and severe cases that constantly surface at the facility.</p>
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>

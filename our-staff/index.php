@@ -15,20 +15,7 @@
     </script>
 
 
-    <title>Services - Kinondoni Hospital</title>
-    <meta name="robots" content="index, follow" />
-    <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-    <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-    <link rel="canonical" href="index.html" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="Departments - MultiMed Clinic" />
-    <meta property="og:description" content="Departments Cardiology Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut. Ophthalmology Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut. Pulmonary Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut. Dental Lorem ipsum dolor sit amet, consectetur adipisicing elit, &hellip; Departments Read More &raquo;" />
-    <meta property="og:url" content="https://websitedemos.net/multimed-04/departments/" />
-    <meta property="og:site_name" content="MultiMed Clinic" />
-    <meta property="article:modified_time" content="2020-02-19T04:57:28+00:00" />
-    <meta property="og:image" content="https://websitedemos.net/multimed-04/wp-content/uploads/sites/228/2020/02/department-08.jpg" />
-    <meta name="twitter:card" content="summary_large_image" />
+    <title>Our Staff - Kinondoni Hospital</title>
     <script type="application/ld+json" class="yoast-schema-graph">
         {
             "@context": "https://schema.org",
@@ -46,36 +33,36 @@
                 "inLanguage": "en-US"
             }, {
                 "@type": "ImageObject",
-                "@id": "https://websitedemos.net/multimed-04/departments/#primaryimage",
+                "@id": "https://websitedemos.net/multimed-04/doctors/#primaryimage",
                 "inLanguage": "en-US",
-                "url": "https://websitedemos.net/multimed-04/wp-content/uploads/sites/228/2020/02/department-08.jpg",
+                "url": "https://websitedemos.net/multimed-04/wp-content/uploads/sites/228/2020/02/doctor-09.jpg",
                 "width": 370,
-                "height": 270
+                "height": 370
             }, {
                 "@type": "WebPage",
-                "@id": "https://websitedemos.net/multimed-04/departments/#webpage",
-                "url": "https://websitedemos.net/multimed-04/departments/",
-                "name": "Departments - MultiMed Clinic",
+                "@id": "https://websitedemos.net/multimed-04/doctors/#webpage",
+                "url": "https://websitedemos.net/multimed-04/doctors/",
+                "name": "Doctors - MultiMed Clinic",
                 "isPartOf": {
                     "@id": "https://websitedemos.net/multimed-04/#website"
                 },
                 "primaryImageOfPage": {
-                    "@id": "https://websitedemos.net/multimed-04/departments/#primaryimage"
+                    "@id": "https://websitedemos.net/multimed-04/doctors/#primaryimage"
                 },
-                "datePublished": "2018-07-03T15:05:16+00:00",
-                "dateModified": "2020-02-19T04:57:28+00:00",
+                "datePublished": "2018-07-03T15:06:48+00:00",
+                "dateModified": "2020-02-06T07:27:00+00:00",
                 "inLanguage": "en-US",
                 "potentialAction": [{
                     "@type": "ReadAction",
-                    "target": ["https://websitedemos.net/multimed-04/departments/"]
+                    "target": ["https://websitedemos.net/multimed-04/doctors/"]
                 }]
             }]
         }
 
     </script>
 
-    <link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
-    <link rel='dns-prefetch' href='https://s.w.org/' />
+    <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+    <link rel='dns-prefetch' href='http://s.w.org/' />
     <link rel="alternate" type="application/rss+xml" title="MultiMed Clinic &raquo; Feed" href="../feed/index.html" />
     <link rel="alternate" type="application/rss+xml" title="MultiMed Clinic &raquo; Comments Feed" href="../comments/feed/index.html" />
     <script>
@@ -1217,7 +1204,6 @@
             .ast-theme-transparent-header .main-header-menu li>.ast-menu-toggle,
             .ast-theme-transparent-header .main-header-menu li>.ast-menu-toggle {
                 color: #00a650;
-                text-align: center;
             }
 
             .ast-theme-transparent-header .main-header-menu li:hover>a,
@@ -1418,27 +1404,11 @@
         }
 
         /*        CUSTOM STYLE*/
-        .elementor-8 .elementor-element.elementor-element-11ae1fbb>.elementor-background-overlay {
+        .elementor-11 .elementor-element.elementor-element-5206401f>.elementor-background-overlay {
+            background-color: transparent;
             background-image: linear-gradient(45deg, #00a650 100%, #00a650 100%) !important;
-        }
-
-        .elementor-419 .elementor-element.elementor-element-6bd7d94>.elementor-background-overlay {
-            background-image: linear-gradient(45deg, #00a650 100%, #00a650 100%) !important;
-        }
-
-        .elementor-8 .elementor-element.elementor-element-61477a8 .elementor-icon-list-text,
-        .elementor-8 .elementor-element.elementor-element-622c1e10 .elementor-icon-list-text,
-        .elementor-8 .elementor-element.elementor-element-4664cec .elementor-icon-list-text,
-        .elementor-8 .elementor-element.elementor-element-c38462a .elementor-icon-list-text,
-        .elementor-8 .elementor-element.elementor-element-59a8a2c .elementor-icon-list-text,
-        .elementor-8 .elementor-element.elementor-element-1529595 .elementor-icon-list-text,
-        .elementor-8 .elementor-element.elementor-element-1f3c643 .elementor-icon-list-text,
-        .elementor-8 .elementor-element.elementor-element-9926b38 .elementor-icon-list-text,
-        .elementor-8 .elementor-element.elementor-element-49876f6 .elementor-icon-list-text,
-        .elementor-8 .elementor-element.elementor-element-1f3c643 .elementor-icon-list-text,
-        .elementor-8 .elementor-element.elementor-element-9926b38 .elementor-icon-list-text {
-            color: #00a650 !important;
-            font-weight: bold;
+            opacity: 0.9;
+            transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
         }
 
         /*        mobile menu*/
@@ -1456,30 +1426,6 @@
             font-family: 'Nunito', sans-serif !important;
         }
 
-        @media (max-width: 767px) {
-
-            .elementor-8 .elementor-element.elementor-element-622c1e10>.elementor-widget-container,
-            .elementor-8 .elementor-element.elementor-element-62779a67>.elementor-widget-container,
-            .elementor-8 .elementor-element.elementor-element-62779a67>.elementor-widget-container,
-            .elementor-8 .elementor-element.elementor-element-61477a8>.elementor-widget-container,
-            .elementor-8 .elementor-element.elementor-element-c3cd27e>.elementor-widget-container,
-            .elementor-8 .elementor-element.elementor-element-4664cec>.elementor-widget-container,
-            .elementor-8 .elementor-element.elementor-element-6f2cebd>.elementor-widget-container,
-            .elementor-8 .elementor-element.elementor-element-c38462a>.elementor-widget-container,
-            .elementor-8 .elementor-element.elementor-element-4cc10b3>.elementor-widget-container,
-            .elementor-8 .elementor-element.elementor-element-59a8a2c>.elementor-widget-container,
-            .elementor-8 .elementor-element.elementor-element-b56e560>.elementor-widget-container,
-            .elementor-8 .elementor-element.elementor-element-1529595>.elementor-widget-container,
-            .elementor-8 .elementor-element.elementor-element-216c46b>.elementor-widget-container,
-            .elementor-8 .elementor-element.elementor-element-1f3c643>.elementor-widget-container,
-            .elementor-8 .elementor-element.elementor-element-965e27b>.elementor-widget-container,
-            .elementor-8 .elementor-element.elementor-element-9926b38>.elementor-widget-container,
-            .elementor-8 .elementor-element.elementor-element-462e886>.elementor-widget-container,
-            .elementor-8 .elementor-element.elementor-element-49876f6>.elementor-widget-container,
-            .elementor-8 .elementor-element.elementor-element-343bb8c>.elementor-widget-container {
-                padding: 0px !important;
-            }
-
     </style>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
@@ -1491,13 +1437,12 @@
     <link rel='stylesheet' id='font-awesome-5-all-css' href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min4315.css?ver=2.9.8' media='all' />
     <link rel='stylesheet' id='font-awesome-4-shim-css' href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min4315.css?ver=2.9.8' media='all' />
     <link rel='stylesheet' id='elementor-global-css' href='../wp-content/uploads/sites/228/elementor/css/global2bdd.css?ver=1590398308' media='all' />
-    <link rel='stylesheet' id='elementor-post-8-css' href='../wp-content/uploads/sites/228/elementor/css/post-8c13e.css?ver=1590398386' media='all' />
+    <link rel='stylesheet' id='elementor-post-11-css' href='../wp-content/uploads/sites/228/elementor/css/post-118297.css?ver=1590398388' media='all' />
     <link rel='stylesheet' id='hfe-widgets-style-css' href='../wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend91ce.css?ver=1.5.0' media='all' />
     <link rel='stylesheet' id='elementor-post-419-css' href='../wp-content/uploads/sites/228/elementor/css/post-4192117.css?ver=1590398309' media='all' />
     <link rel='stylesheet' id='astra-addon-css-css' href='../wp-content/uploads/sites/228/astra-addon/astra-addon-5ec62d86983ca1-438894090875.css?ver=2.5.0' media='all' />
     <link rel='stylesheet' id='elementor-icons-shared-0-css' href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.minb683.css?ver=5.12.0' media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.minb683.css?ver=5.12.0' media='all' />
-    <link rel='stylesheet' id='elementor-icons-fa-regular-css' href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.minb683.css?ver=5.12.0' media='all' />
     <!--[if IE]>
 <script src='https://websitedemos.net/multimed-04/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=2.4.4'></script>
 <script>
@@ -1512,9 +1457,9 @@ flexibility(document.documentElement);
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.html?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" />
     <meta name="generator" content="WordPress 5.4.1" />
-    <link rel='shortlink' href='../index2df4.html?p=8' />
-    <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed7700.json?url=https%3A%2F%2Fwebsitedemos.net%2Fmultimed-04%2Fdepartments%2F" />
-    <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed3a7e?url=https%3A%2F%2Fwebsitedemos.net%2Fmultimed-04%2Fdepartments%2F&amp;format=xml" />
+    <link rel='shortlink' href='../index5757.html?p=11' />
+    <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed0d93.json?url=https%3A%2F%2Fwebsitedemos.net%2Fmultimed-04%2Fdoctors%2F" />
+    <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed3e55?url=https%3A%2F%2Fwebsitedemos.net%2Fmultimed-04%2Fdoctors%2F&amp;format=xml" />
 
 
     <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
@@ -1529,10 +1474,13 @@ flexibility(document.documentElement);
         }
 
     </style>
-    <link rel="icon" href="../wp-content/uploads/sites/228/2018/07/android-chrome-512x512.png" sizes="512x512" />
+    <link rel="icon" href="../wp-content/uploads/sites/228/2018/07/cropped-favicon-free-img-32x32.png" sizes="32x32" />
+    <link rel="icon" href="../wp-content/uploads/sites/228/2018/07/cropped-favicon-free-img-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="../wp-content/uploads/sites/228/2018/07/cropped-favicon-free-img-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://websitedemos.net/multimed-04/wp-content/uploads/sites/228/2018/07/cropped-favicon-free-img-270x270.png" />
 </head>
 
-<body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="page-template-default page page-id-8 wp-custom-logo ehf-footer ehf-template-astra ehf-stylesheet-astra ast-desktop ast-page-builder-template ast-no-sidebar astra-2.4.4 ast-header-custom-item-inside ast-single-post ast-replace-site-logo-transparent ast-inherit-site-logo-transparent ast-theme-transparent-header elementor-default elementor-kit-556 elementor-page elementor-page-8 astra-addon-2.5.0">
+<body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="page-template-default page page-id-11 wp-custom-logo ehf-footer ehf-template-astra ehf-stylesheet-astra ast-desktop ast-page-builder-template ast-no-sidebar astra-2.4.4 ast-header-custom-item-inside ast-single-post ast-replace-site-logo-transparent ast-inherit-site-logo-transparent ast-theme-transparent-header elementor-default elementor-kit-556 elementor-page elementor-page-11 astra-addon-2.5.0">
     <div class="hfeed site" id="page">
         <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
         <header class="site-header header-main-layout-1 ast-primary-menu-enabled ast-hide-custom-menu-mobile ast-menu-toggle-icon ast-mobile-header-inline" id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead">
@@ -1560,8 +1508,8 @@ flexibility(document.documentElement);
                                             <ul id="primary-menu" class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border">
                                                 <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-19"><a href="../">Home</a></li>
                                                 <li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="../about/">About</a></li>
-                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-17"><a href="./" aria-current="page">Services</a></li>
-                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-17"><a href="../our-staff/" aria-current="page">Our Staff</a></li>
+                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-17"><a href="../services/" aria-current="page">Services</a></li>
+                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-17"><a href="./" aria-current="page">Our Staff</a></li>
                                                 <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="../latest-news/">Latest News</a></li>
                                                 <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="../vacancies/">Vacancies</a></li>
                                                 <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="../contact/">Contact</a></li>
@@ -1579,26 +1527,26 @@ flexibility(document.documentElement);
             <div class="ast-container">
                 <div id="primary" class="content-area primary">
                     <main id="main" class="site-main">
-                        <article class="post-8 page type-page status-publish ast-article-single" id="post-8" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+                        <article class="post-11 page type-page status-publish ast-article-single" id="post-11" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
                             <header class="entry-header ast-header-without-markup">
                             </header>
                             <div class="entry-content clear" itemprop="text">
-                                <div data-elementor-type="wp-post" data-elementor-id="8" class="elementor elementor-8" data-elementor-settings="[]">
+                                <div data-elementor-type="wp-post" data-elementor-id="11" class="elementor elementor-11" data-elementor-settings="[]">
                                     <div class="elementor-inner">
                                         <div class="elementor-section-wrap">
-                                            <section class="elementor-element elementor-element-11ae1fbb elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="11ae1fbb" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                            <section class="elementor-element elementor-element-5206401f elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="5206401f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                 <div class="elementor-background-overlay"></div>
                                                 <div class="elementor-container elementor-column-gap-no">
                                                     <div class="elementor-row">
-                                                        <div class="elementor-element elementor-element-7782071c elementor-column elementor-col-100 elementor-top-column" data-id="7782071c" data-element_type="column">
+                                                        <div class="elementor-element elementor-element-79a6eccd elementor-column elementor-col-100 elementor-top-column" data-id="79a6eccd" data-element_type="column">
                                                             <div class="elementor-column-wrap  elementor-element-populated">
                                                                 <div class="elementor-widget-wrap">
-                                                                    <div class="elementor-element elementor-element-3e441ded elementor-widget elementor-widget-heading" data-id="3e441ded" data-element_type="widget" data-widget_type="heading.default">
+                                                                    <div class="elementor-element elementor-element-1f56b50a elementor-widget elementor-widget-heading" data-id="1f56b50a" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h1 class="elementor-heading-title elementor-size-default">Services</h1>
+                                                                            <h1 class="elementor-heading-title elementor-size-default">Our Staff</h1>
                                                                         </div>
                                                                     </div>
-                                                                    <div class="elementor-element elementor-element-9f9d8fe elementor-widget elementor-widget-divider" data-id="9f9d8fe" data-element_type="widget" data-widget_type="divider.default">
+                                                                    <div class="elementor-element elementor-element-8c4a792 elementor-widget elementor-widget-divider" data-id="8c4a792" data-element_type="widget" data-widget_type="divider.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-divider">
                                                                                 <span class="elementor-divider-separator">
@@ -1612,101 +1560,100 @@ flexibility(document.documentElement);
                                                     </div>
                                                 </div>
                                             </section>
-                                            <section class="elementor-element elementor-element-1fb97476 elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="1fb97476" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                            <section class="elementor-element elementor-element-43597030 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="43597030" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                 <div class="elementor-background-overlay"></div>
                                                 <div class="elementor-container elementor-column-gap-no">
                                                     <div class="elementor-row">
-                                                        <div class="elementor-element elementor-element-64b3707a elementor-column elementor-col-100 elementor-top-column" data-id="64b3707a" data-element_type="column">
+                                                        <div class="elementor-element elementor-element-40f9ac2e elementor-column elementor-col-100 elementor-top-column" data-id="40f9ac2e" data-element_type="column">
                                                             <div class="elementor-column-wrap  elementor-element-populated">
                                                                 <div class="elementor-widget-wrap">
-                                                                    <section class="elementor-element elementor-element-790861f5 elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="790861f5" data-element_type="section">
+                                                                    <section class="elementor-element elementor-element-430a946a elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="430a946a" data-element_type="section">
                                                                         <div class="elementor-container elementor-column-gap-no">
                                                                             <div class="elementor-row">
-                                                                                <div class="elementor-element elementor-element-7e84fc8b elementor-column elementor-col-33 elementor-inner-column" data-id="7e84fc8b" data-element_type="column">
+                                                                                <div class="elementor-element elementor-element-5e774059 elementor-column elementor-col-33 elementor-inner-column" data-id="5e774059" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                                                     <div class="elementor-column-wrap  elementor-element-populated">
                                                                                         <div class="elementor-widget-wrap">
-                                                                                            <div class="elementor-element elementor-element-3a9c553b elementor-widget elementor-widget-image" data-id="3a9c553b" data-element_type="widget" data-widget_type="image.default">
+                                                                                            <div class="elementor-element elementor-element-719c1a0a elementor-widget elementor-widget-image" data-id="719c1a0a" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/3d-ultrasound.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
+                                                                                                    <div class="elementor-image">
+                                                                                                        <img width="370" height="370" src="../wp-content/uploads/sites/228/2020/02/Dr-Faustine-Mungulu-General-Practitioner.jpg" class="attachment-full size-full" alt="" /> </div>
                                                                                                 </div>
                                                                                             </div>
-                                                                                            <div class="elementor-element elementor-element-622c1e10 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="622c1e10" data-element_type="widget" data-widget_type="icon-list.default">
+                                                                                            <div class="elementor-element elementor-element-3794f8bd elementor-widget elementor-widget-heading" data-id="3794f8bd" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <ul class="elementor-icon-list-items">
-                                                                                                        <li class="elementor-icon-list-item">
-                                                                                                            <span class="elementor-icon-list-text p-0">3D Ultrasound</span>
-                                                                                                        </li>
-                                                                                                    </ul>
+                                                                                                    <h4 class="elementor-heading-title elementor-size-default">Dr. Faustine Mungulu</h4>
                                                                                                 </div>
                                                                                             </div>
-                                                                                            <div class="elementor-element elementor-element-62779a67 elementor-widget elementor-widget-text-editor" data-id="62779a67" data-element_type="widget" data-widget_type="text-editor.default">
+                                                                                            <div class="elementor-element elementor-element-292334d elementor-widget elementor-widget-heading" data-id="292334d" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>The Ultrasound machine produces 3 dimensional
-                                                                                                            imaging for more reliable results allowing specialists
-                                                                                                            to make decisions that are based on detailed findings.</p>
+                                                                                                    <h6 class="elementor-heading-title elementor-size-default">General Practitioner</h6>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="elementor-element elementor-element-3e4a500 elementor-widget elementor-widget-divider" data-id="3e4a500" data-element_type="widget" data-widget_type="divider.default">
+                                                                                                <div class="elementor-widget-container">
+                                                                                                    <div class="elementor-divider">
+                                                                                                        <span class="elementor-divider-separator">
+                                                                                                        </span>
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
-                                                                                <div class="elementor-element elementor-element-7273e72 elementor-column elementor-col-33 elementor-inner-column" data-id="7273e72" data-element_type="column">
+                                                                                <div class="elementor-element elementor-element-4f78a5d elementor-column elementor-col-33 elementor-inner-column" data-id="4f78a5d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                                                     <div class="elementor-column-wrap  elementor-element-populated">
                                                                                         <div class="elementor-widget-wrap">
-                                                                                            <div class="elementor-element elementor-element-52bf925 elementor-widget elementor-widget-image" data-id="52bf925" data-element_type="widget" data-widget_type="image.default">
+                                                                                            <div class="elementor-element elementor-element-e088de0 elementor-widget elementor-widget-image" data-id="e088de0" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/x-ray.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
+                                                                                                    <div class="elementor-image">
+                                                                                                        <img width="370" height="370" src="../wp-content/uploads/sites/228/2020/02/Dr-Maucky-Hooratha-Cardiologist.jpg" class="attachment-full size-full" alt="" /> </div>
                                                                                                 </div>
                                                                                             </div>
-                                                                                            <div class="elementor-element elementor-element-61477a8 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="61477a8" data-element_type="widget" data-widget_type="icon-list.default">
+                                                                                            <div class="elementor-element elementor-element-cd9bb4c elementor-widget elementor-widget-heading" data-id="cd9bb4c" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <ul class="elementor-icon-list-items">
-                                                                                                        <li class="elementor-icon-list-item">
-                                                                                                            <span class="elementor-icon-list-text p-0">X-Ray</span>
-                                                                                                        </li>
-                                                                                                    </ul>
+                                                                                                    <h4 class="elementor-heading-title elementor-size-default">Dr. Maucky Hooratha</h4>
                                                                                                 </div>
                                                                                             </div>
-                                                                                            <div class="elementor-element elementor-element-c3cd27e elementor-widget elementor-widget-text-editor" data-id="c3cd27e" data-element_type="widget" data-widget_type="text-editor.default">
+                                                                                            <div class="elementor-element elementor-element-bf3d5f2 elementor-widget elementor-widget-heading" data-id="bf3d5f2" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>The X-Ray facility is connected to a digital imaging
-                                                                                                            machine allowing Radiographers to attain focused
-                                                                                                            and precise readings.</p>
+                                                                                                    <h6 class="elementor-heading-title elementor-size-default">Cardiologist</h6>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="elementor-element elementor-element-8a38a5f elementor-widget elementor-widget-divider" data-id="8a38a5f" data-element_type="widget" data-widget_type="divider.default">
+                                                                                                <div class="elementor-widget-container">
+                                                                                                    <div class="elementor-divider">
+                                                                                                        <span class="elementor-divider-separator">
+                                                                                                        </span>
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
-                                                                                <div class="elementor-element elementor-element-e07c92e elementor-column elementor-col-33 elementor-inner-column" data-id="e07c92e" data-element_type="column">
+                                                                                <div class="elementor-element elementor-element-3596fc7 elementor-column elementor-col-33 elementor-inner-column" data-id="3596fc7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                                                     <div class="elementor-column-wrap  elementor-element-populated">
                                                                                         <div class="elementor-widget-wrap">
-                                                                                            <div class="elementor-element elementor-element-c17f86f elementor-widget elementor-widget-image" data-id="c17f86f" data-element_type="widget" data-widget_type="image.default">
+                                                                                            <div class="elementor-element elementor-element-0de1a17 elementor-widget elementor-widget-image" data-id="0de1a17" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/ct-scan.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
+                                                                                                    <div class="elementor-image">
+                                                                                                        <img width="370" height="370" src="../wp-content/uploads/sites/228/2020/02/Dr-Emmanuel-Mmbando-General-Practitioner.jpg" class="attachment-full size-full" alt="" /> </div>
                                                                                                 </div>
                                                                                             </div>
-                                                                                            <div class="elementor-element elementor-element-4664cec elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="4664cec" data-element_type="widget" data-widget_type="icon-list.default">
+                                                                                            <div class="elementor-element elementor-element-1329865 elementor-widget elementor-widget-heading" data-id="1329865" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <ul class="elementor-icon-list-items">
-                                                                                                        <li class="elementor-icon-list-item">
-                                                                                                            <span class="elementor-icon-list-text p-0">CT-Scan</span>
-                                                                                                        </li>
-                                                                                                    </ul>
+                                                                                                    <h4 class="elementor-heading-title elementor-size-default">Dr. Emmanuel Mmbando</h4>
                                                                                                 </div>
                                                                                             </div>
-                                                                                            <div class="elementor-element elementor-element-6f2cebd elementor-widget elementor-widget-text-editor" data-id="6f2cebd" data-element_type="widget" data-widget_type="text-editor.default">
+                                                                                            <div class="elementor-element elementor-element-a9d55f6 elementor-widget elementor-widget-heading" data-id="a9d55f6" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>The 6 slice CT-Scan machine is the most recent
-                                                                                                            installation in the radiology department which is also
-                                                                                                            connected to the digital imaging machine providing a
-                                                                                                            grand cross-section view for Radiologist to work with.</p>
+                                                                                                    <h6 class="elementor-heading-title elementor-size-default">General Practitioner</h6>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="elementor-element elementor-element-c82184e elementor-widget elementor-widget-divider" data-id="c82184e" data-element_type="widget" data-widget_type="divider.default">
+                                                                                                <div class="elementor-widget-container">
+                                                                                                    <div class="elementor-divider">
+                                                                                                        <span class="elementor-divider-separator">
+                                                                                                        </span>
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -1716,263 +1663,63 @@ flexibility(document.documentElement);
                                                                             </div>
                                                                         </div>
                                                                     </section>
-                                                                    <section class="elementor-element elementor-element-59304197 elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="59304197" data-element_type="section">
+                                                                    <section class="elementor-element elementor-element-1b70dab5 elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="1b70dab5" data-element_type="section">
                                                                         <div class="elementor-container elementor-column-gap-no">
                                                                             <div class="elementor-row">
-                                                                                <div class="elementor-element elementor-element-85840c7 elementor-column elementor-col-33 elementor-inner-column" data-id="85840c7" data-element_type="column">
+                                                                                <div class="elementor-element elementor-element-adc6098 elementor-column elementor-col-33 elementor-inner-column" data-id="adc6098" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                                                     <div class="elementor-column-wrap  elementor-element-populated">
                                                                                         <div class="elementor-widget-wrap">
-                                                                                            <div class="elementor-element elementor-element-11d91ef elementor-widget elementor-widget-image" data-id="11d91ef" data-element_type="widget" data-widget_type="image.default">
+                                                                                            <div class="elementor-element elementor-element-4e25a28 elementor-widget elementor-widget-image" data-id="4e25a28" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/dental-unit.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
+                                                                                                    <div class="elementor-image">
+                                                                                                        <img width="370" height="370" src="../wp-content/uploads/sites/228/2020/02/Kurthum-George-Lab-Technician.jpg" class="attachment-full size-full" alt="" /> </div>
                                                                                                 </div>
                                                                                             </div>
-                                                                                            <div class="elementor-element elementor-element-c38462a elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="c38462a" data-element_type="widget" data-widget_type="icon-list.default">
+                                                                                            <div class="elementor-element elementor-element-1e6b79f elementor-widget elementor-widget-heading" data-id="1e6b79f" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <ul class="elementor-icon-list-items">
-                                                                                                        <li class="elementor-icon-list-item">
-                                                                                                            <span class="elementor-icon-list-text p-0">Dental Unit</span>
-                                                                                                        </li>
-                                                                                                    </ul>
+                                                                                                    <h4 class="elementor-heading-title elementor-size-default">Kurthum George</h4>
                                                                                                 </div>
                                                                                             </div>
-                                                                                            <div class="elementor-element elementor-element-4cc10b3 elementor-widget elementor-widget-text-editor" data-id="4cc10b3" data-element_type="widget" data-widget_type="text-editor.default">
+                                                                                            <div class="elementor-element elementor-element-051d9aa elementor-widget elementor-widget-heading" data-id="051d9aa" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>A two man team of qualified Dentists surrounded
-                                                                                                            by supporting nursing staff is dedicated to
-                                                                                                            provide intensive dental care while employing
-                                                                                                            state of the art equipment.</p>
+                                                                                                    <h6 class="elementor-heading-title elementor-size-default">Lab Technician</h6>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="elementor-element elementor-element-c22cadb elementor-widget elementor-widget-divider" data-id="c22cadb" data-element_type="widget" data-widget_type="divider.default">
+                                                                                                <div class="elementor-widget-container">
+                                                                                                    <div class="elementor-divider">
+                                                                                                        <span class="elementor-divider-separator">
+                                                                                                        </span>
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
-                                                                                <div class="elementor-element elementor-element-d2334a5 elementor-column elementor-col-33 elementor-inner-column" data-id="d2334a5" data-element_type="column">
+                                                                                <div class="elementor-element elementor-element-343e6e5 elementor-column elementor-col-33 elementor-inner-column" data-id="343e6e5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                                                                     <div class="elementor-column-wrap  elementor-element-populated">
                                                                                         <div class="elementor-widget-wrap">
-                                                                                            <div class="elementor-element elementor-element-ee4c6ec elementor-widget elementor-widget-image" data-id="ee4c6ec" data-element_type="widget" data-widget_type="image.default">
+                                                                                            <div class="elementor-element elementor-element-2a3c732 elementor-widget elementor-widget-image" data-id="2a3c732" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/reproductive-child-health.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
+                                                                                                    <div class="elementor-image">
+                                                                                                        <img width="370" height="370" src="../wp-content/uploads/sites/228/2020/02/Michaella-Komba-Matron.jpg" class="attachment-full size-full" alt="" /> </div>
                                                                                                 </div>
                                                                                             </div>
-                                                                                            <div class="elementor-element elementor-element-59a8a2c elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="59a8a2c" data-element_type="widget" data-widget_type="icon-list.default">
+                                                                                            <div class="elementor-element elementor-element-12f0961 elementor-widget elementor-widget-heading" data-id="12f0961" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <ul class="elementor-icon-list-items">
-                                                                                                        <li class="elementor-icon-list-item">
-                                                                                                            <span class="elementor-icon-list-text p-0">Reproductive Child Health</span>
-                                                                                                        </li>
-                                                                                                    </ul>
+                                                                                                    <h4 class="elementor-heading-title elementor-size-default">Michaella Komba</h4>
                                                                                                 </div>
                                                                                             </div>
-                                                                                            <div class="elementor-element elementor-element-b56e560 elementor-widget elementor-widget-text-editor" data-id="b56e560" data-element_type="widget" data-widget_type="text-editor.default">
+                                                                                            <div class="elementor-element elementor-element-d47aafd elementor-widget elementor-widget-heading" data-id="d47aafd" data-element_type="widget" data-widget_type="heading.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>Our Reproductive Child Health department caters to
-                                                                                                            the well being of mothers and expecting mothers.
-                                                                                                            Vaccination, family planning and prevention of
-                                                                                                            transmission of HIV from mother to child are among
-                                                                                                            the core services offered.</p>
-                                                                                                    </div>
+                                                                                                    <h6 class="elementor-heading-title elementor-size-default">Matron</h6>
                                                                                                 </div>
                                                                                             </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="elementor-element elementor-element-d60d6ef elementor-column elementor-col-33 elementor-inner-column" data-id="d60d6ef" data-element_type="column">
-                                                                                    <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                        <div class="elementor-widget-wrap">
-                                                                                            <div class="elementor-element elementor-element-683659d elementor-widget elementor-widget-image" data-id="683659d" data-element_type="widget" data-widget_type="image.default">
+                                                                                            <div class="elementor-element elementor-element-06cb718 elementor-widget elementor-widget-divider" data-id="06cb718" data-element_type="widget" data-widget_type="divider.default">
                                                                                                 <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/physiotherapy.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-element elementor-element-1529595 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="1529595" data-element_type="widget" data-widget_type="icon-list.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <ul class="elementor-icon-list-items">
-                                                                                                        <li class="elementor-icon-list-item">
-                                                                                                            <span class="elementor-icon-list-text p-0">Physiotherapy </span>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-element elementor-element-216c46b elementor-widget elementor-widget-text-editor" data-id="216c46b" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>Our physiotherapy department caters to people
-                                                                                                            affected by injury, illness or disability through
-                                                                                                            movement and exercise, manual therapy, education
-                                                                                                            and advice. Patients of all ages are helped manage
-                                                                                                            pain and prevent disease.</p>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </section>
-                                                                    <section class="elementor-element elementor-element-309938a0 elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="309938a0" data-element_type="section">
-                                                                        <div class="elementor-container elementor-column-gap-no">
-                                                                            <div class="elementor-row">
-                                                                                <div class="elementor-element elementor-element-5079072 elementor-column elementor-col-33 elementor-inner-column" data-id="5079072" data-element_type="column">
-                                                                                    <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                        <div class="elementor-widget-wrap">
-                                                                                            <div class="elementor-element elementor-element-51eed90 elementor-widget elementor-widget-image" data-id="51eed90" data-element_type="widget" data-widget_type="image.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/ctc.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-element elementor-element-1f3c643 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="1f3c643" data-element_type="widget" data-widget_type="icon-list.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <ul class="elementor-icon-list-items">
-                                                                                                        <li class="elementor-icon-list-item">
-                                                                                                            <span class="elementor-icon-list-text p-0">Care and Treatment Center</span>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-element elementor-element-965e27b elementor-widget elementor-widget-text-editor" data-id="965e27b" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>The Care and Treatment Centre conducts
-                                                                                                            counseling, testing and administers treatment
-                                                                                                            specifically for HIV patients. Our CTC department
-                                                                                                            was recently awarded a 95% success rate in
-                                                                                                            caretaking by the Centre for Disease and Control
-                                                                                                            (CDC). </p>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="elementor-element elementor-element-b4f51cd elementor-column elementor-col-33 elementor-inner-column" data-id="b4f51cd" data-element_type="column">
-                                                                                    <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                        <div class="elementor-widget-wrap">
-                                                                                            <div class="elementor-element elementor-element-ee086cb elementor-widget elementor-widget-image" data-id="ee086cb" data-element_type="widget" data-widget_type="image.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/laboratory.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-element elementor-element-9926b38 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="9926b38" data-element_type="widget" data-widget_type="icon-list.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <ul class="elementor-icon-list-items">
-                                                                                                        <li class="elementor-icon-list-item">
-                                                                                                            <span class="elementor-icon-list-text p-0">Laboratory</span>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-element elementor-element-462e886 elementor-widget elementor-widget-text-editor" data-id="462e886" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>The laboratory maintains a skilled team of
-                                                                                                            Technicians and assistants working with modern
-                                                                                                            equipment to provide reliable results in prompt
-                                                                                                            time.</p>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="elementor-element elementor-element-e4f4c75 elementor-column elementor-col-33 elementor-inner-column" data-id="e4f4c75" data-element_type="column">
-                                                                                    <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                        <div class="elementor-widget-wrap">
-                                                                                            <div class="elementor-element elementor-element-1d51d7f elementor-widget elementor-widget-image" data-id="1d51d7f" data-element_type="widget" data-widget_type="image.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/theatre.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-element elementor-element-49876f6 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="49876f6" data-element_type="widget" data-widget_type="icon-list.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <ul class="elementor-icon-list-items">
-                                                                                                        <li class="elementor-icon-list-item">
-                                                                                                            <span class="elementor-icon-list-text p-0">Theatre</span>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-element elementor-element-343bb8c elementor-widget elementor-widget-text-editor" data-id="343bb8c" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>The theatre holds modernized equipment
-                                                                                                            and reliable anesthesia machinery teamed
-                                                                                                            with qualified surgeons and specialist to ensure
-                                                                                                            successful minor and major procedures.</p>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </section>
-                                                                    <section class="elementor-element elementor-element-309938a0 elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="309938a0" data-element_type="section">
-                                                                        <div class="elementor-container elementor-column-gap-no">
-                                                                            <div class="elementor-row">
-                                                                                <div class="elementor-element elementor-element-5079072 elementor-column elementor-col-33 elementor-inner-column" data-id="5079072" data-element_type="column">
-                                                                                    <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                        <div class="elementor-widget-wrap">
-                                                                                            <div class="elementor-element elementor-element-51eed90 elementor-widget elementor-widget-image" data-id="51eed90" data-element_type="widget" data-widget_type="image.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/social-welfare-programs.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-element elementor-element-1f3c643 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="1f3c643" data-element_type="widget" data-widget_type="icon-list.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <ul class="elementor-icon-list-items">
-                                                                                                        <li class="elementor-icon-list-item">
-                                                                                                            <span class="elementor-icon-list-text p-0">Social Welfare Programs</span>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-element elementor-element-965e27b elementor-widget elementor-widget-text-editor" data-id="965e27b" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p><strong>PSYCHOSOCIAL COUNCELING:</strong> Our Social worker with counseling competence will address your social dilemmas and psychological needs with utmost care and strategized approach.<br> <strong>HEALTH EDUCATION:</strong> We conduct Outreach programs to different organizations which focus on education, intervention and prevention.<br> <strong>COMMUNITY DEVELOPMENTAL PROJECTS:</strong> We do projects to serve people with different issues in the Community like Child protection, HIV/AIDS, Community health support and others.</p>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="elementor-element elementor-element-b4f51cd elementor-column elementor-col-33 elementor-inner-column" data-id="b4f51cd" data-element_type="column">
-                                                                                    <div class="elementor-column-wrap  elementor-element-populated">
-                                                                                        <div class="elementor-widget-wrap">
-                                                                                            <div class="elementor-element elementor-element-ee086cb elementor-widget elementor-widget-image" data-id="ee086cb" data-element_type="widget" data-widget_type="image.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/icu.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-element elementor-element-9926b38 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="9926b38" data-element_type="widget" data-widget_type="icon-list.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <ul class="elementor-icon-list-items">
-                                                                                                        <li class="elementor-icon-list-item">
-                                                                                                            <span class="elementor-icon-list-text p-0">ICU</span>
-                                                                                                        </li>
-                                                                                                    </ul>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-element elementor-element-462e886 elementor-widget elementor-widget-text-editor" data-id="462e886" data-element_type="widget" data-widget_type="text-editor.default">
-                                                                                                <div class="elementor-widget-container">
-                                                                                                    <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>The ICU department is arranged to meet the needs
-                                                                                                            of varying severe cases of ailment that patients may
-                                                                                                            have under the hands of qualified nurses and doctors</p>
+                                                                                                    <div class="elementor-divider">
+                                                                                                        <span class="elementor-divider-separator">
+                                                                                                        </span>
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -2117,8 +1864,8 @@ flexibility(document.documentElement);
                 "editorPreferences": []
             },
             "post": {
-                "id": 8,
-                "title": "Departments%20-%20MultiMed%20Clinic",
+                "id": 11,
+                "title": "Doctors%20-%20MultiMed%20Clinic",
                 "excerpt": "",
                 "featuredImage": false
             }
@@ -2135,6 +1882,6 @@ flexibility(document.documentElement);
     </script>
 </body>
 
-<!-- Mirrored from websitedemos.net/multimed-04/departments/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Jun 2020 18:57:24 GMT -->
+<!-- Mirrored from websitedemos.net/multimed-04/doctors/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Jun 2020 18:57:33 GMT -->
 
 </html>
