@@ -1442,6 +1442,9 @@
 
     </style>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
     <link rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.minc225.css?ver=5.4.1' media='all' />
     <link rel='stylesheet' id='hfe-style-css' href='wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor91ce.css?ver=1.5.0' media='all' />
@@ -1492,6 +1495,27 @@ flexibility(document.documentElement);
 </head>
 
 <body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="home page-template-default page page-id-6 wp-custom-logo ehf-footer ehf-template-astra ehf-stylesheet-astra ast-desktop ast-page-builder-template ast-no-sidebar astra-2.4.4 ast-header-custom-item-inside ast-single-post ast-replace-site-logo-transparent ast-inherit-site-logo-transparent ast-theme-transparent-header elementor-default elementor-kit-556 elementor-page elementor-page-6 astra-addon-2.5.0">
+    <ul class="nav mx-3">
+        <li class="nav-item">
+            <span class="nav-link" style="color: #00a650;"><i class="fa fa-envelope"></i> info@kinondonihospital.co.tz</span>
+        </li>
+        <li class="nav-item">
+            <span class="nav-link" style="color: #00a650;"><i class="fa fa-phone"></i> +255 012 345 678</span>
+        </li>
+        <li class="nav-item ml-auto">
+            <a class="nav-link" href="#" style="color: #00a650;"><i class="fa fa-facebook"></i></a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#" style="color: #00a650;"><i class="fa fa-twitter"></i></a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#" style="color: #00a650;"><i class="fa fa-instagram"></i></a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#" style="color: #00a650;"><i class="fa fa-whatsapp"></i></a>
+        </li>
+
+    </ul>
     <div class="hfeed site" id="page">
         <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
         <header class="site-header header-main-layout-1 ast-primary-menu-enabled ast-hide-custom-menu-mobile ast-menu-toggle-icon ast-mobile-header-inline" id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead">
@@ -1501,7 +1525,8 @@ flexibility(document.documentElement);
                         <div class="ast-flex main-header-container">
                             <div class="site-branding">
                                 <div class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
-                                    <span class="site-logo-img"><a href="./" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="250" src="wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
+                                    <span class="site-logo-img"><a href="./" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="250" src="wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span>
+                                </div>
                             </div>
 
                             <div class="ast-mobile-menu-buttons">
@@ -1520,9 +1545,13 @@ flexibility(document.documentElement);
                                                 <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-19"><a href="./" aria-current="page">Home</a></li>
                                                 <li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="about/">About</a></li>
                                                 <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="services/">Services</a></li>
-                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-17"><a href="../our-staff/" aria-current="page">Our Staff</a></li>
-                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="latest-news/">Latest News</a></li>
-                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="vacancies/">Vacancies</a></li>
+                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-17">
+                                                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Our Team</a>
+                                                    <div class="dropdown-menu">
+                                                        <a class="dropdown-item" href="./our-team/leadership" style="color: #00a650;"><i class="fas fa-angle-right"></i> Leadership</a>
+                                                        <a class="dropdown-item" href="./our-team/our-doctors" style="color: #00a650;"><i class="fas fa-angle-right"></i> Our Doctors</a>
+                                                    </div>
+                                                </li>
                                                 <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="contact/">Contact</a></li>
                                             </ul>
                                         </div>
@@ -2000,7 +2029,8 @@ flexibility(document.documentElement);
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-icon-wrapper">
                                                                                 <div class="elementor-icon">
-                                                                                    <i aria-hidden="true" class="fas fa-quote-right"></i> </div>
+                                                                                    <i aria-hidden="true" class="fas fa-quote-right"></i>
+                                                                                </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -2041,7 +2071,8 @@ flexibility(document.documentElement);
                                                                     <div class="elementor-element elementor-element-fb17239 elementor-widget elementor-widget-image" data-id="fb17239" data-element_type="widget" data-widget_type="image.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
-                                                                                <img width="670" height="400" src="wp-content/uploads/sites/228/2020/02/home-img-01.jpg" class="attachment-full size-full" alt="" sizes="(max-width: 670px) 100vw, 670px" /> </div>
+                                                                                <img width="670" height="400" src="wp-content/uploads/sites/228/2020/02/home-img-01.jpg" class="attachment-full size-full" alt="" sizes="(max-width: 670px) 100vw, 670px" />
+                                                                            </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>

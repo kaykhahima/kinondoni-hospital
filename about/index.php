@@ -1445,6 +1445,9 @@
 
     </style>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
     <link rel='stylesheet' id='wp-block-library-css' href='../wp-includes/css/dist/block-library/style.minc225.css?ver=5.4.1' media='all' />
     <link rel='stylesheet' id='hfe-style-css' href='../wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor91ce.css?ver=1.5.0' media='all' />
@@ -1505,7 +1508,8 @@ flexibility(document.documentElement);
                         <div class="ast-flex main-header-container">
                             <div class="site-branding">
                                 <div class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
-                                    <span class="site-logo-img"><a href="../" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="250" src="../wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="../wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
+                                    <span class="site-logo-img"><a href="../" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="250" src="../wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="../wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span>
+                                </div>
                             </div>
 
                             <div class="ast-mobile-menu-buttons">
@@ -1524,9 +1528,13 @@ flexibility(document.documentElement);
                                                 <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-19"><a href="../">Home</a></li>
                                                 <li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7 current_page_item menu-item-18"><a href="./" aria-current="page">About</a></li>
                                                 <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="../services/">Services</a></li>
-                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-17"><a href="../our-staff/" aria-current="page">Our Staff</a></li>
-                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="../latest-news/">Latest News</a></li>
-                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="../vacancies/">Vacancies</a></li>
+                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-17">
+                                                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Our Team</a>
+                                                    <div class="dropdown-menu">
+                                                        <a class="dropdown-item" href="../our-team/leadership" style="color: #00a650;"><i class="fas fa-angle-right"></i> Leadership</a>
+                                                        <a class="dropdown-item" href="../our-team/our-doctors" style="color: #00a650;"><i class="fas fa-angle-right"></i> Our Doctors</a>
+                                                    </div>
+                                                </li>
                                                 <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="../contact/">Contact</a></li>
                                             </ul>
                                         </div>
@@ -1558,7 +1566,7 @@ flexibility(document.documentElement);
                                                                 <div class="elementor-widget-wrap">
                                                                     <div class="elementor-element elementor-element-4a90a191 elementor-widget elementor-widget-heading" data-id="4a90a191" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h1 class="elementor-heading-title elementor-size-default">About</h1>
+                                                                            <h1 class="elementor-heading-title elementor-size-default">About Us</h1>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-699b7bb elementor-widget elementor-widget-divider" data-id="699b7bb" data-element_type="widget" data-widget_type="divider.default">
@@ -1584,7 +1592,7 @@ flexibility(document.documentElement);
                                                                 <div class="elementor-widget-wrap">
                                                                     <div class="elementor-element elementor-element-21b5fdab elementor-widget elementor-widget-heading" data-id="21b5fdab" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h3 class="elementor-heading-title elementor-size-default">About Our Hospital</h3>
+                                                                            <h3 class="elementor-heading-title elementor-size-default">Our Journey</h3>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-41ceddab elementor-widget elementor-widget-divider" data-id="41ceddab" data-element_type="widget" data-widget_type="divider.default">
@@ -1817,7 +1825,8 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-c1bc619 elementor-widget elementor-widget-image" data-id="c1bc619" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image">
-                                                                                                        <img width="700" height="500" src="../wp-content/uploads/sites/228/2020/02/home-img-01.jpg" class="attachment-large size-large" alt="" sizes="(max-width: 700px) 100vw, 700px" /> </div>
+                                                                                                        <img width="700" height="500" src="../wp-content/uploads/sites/228/2020/02/home-img-01.jpg" class="attachment-large size-large" alt="" sizes="(max-width: 700px) 100vw, 700px" />
+                                                                                                    </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -1858,6 +1867,98 @@ flexibility(document.documentElement);
                                                                         </div>
                                                                     </section>
 
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </section>
+                                            <section class="elementor-element elementor-element-ac9c780 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section bg-light py-5" data-id="ac9c780" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                <div class="elementor-background-overlay"></div>
+                                                <div class="elementor-container elementor-column-gap-no">
+                                                    <div class="elementor-row">
+                                                        <div class="elementor-element elementor-element-502d4586 elementor-column elementor-col-100 elementor-top-column" data-id="502d4586" data-element_type="column">
+                                                            <div class="elementor-column-wrap  elementor-element-populated">
+                                                                <div class="elementor-widget-wrap text-center">
+                                                                    <div class="elementor-element elementor-element-5a4ec3f0 elementor-widget elementor-widget-heading" data-id="5a4ec3f0" data-element_type="widget" data-widget_type="heading.default">
+                                                                        <div class="elementor-widget-container">
+                                                                            <h5 class="elementor-heading-title elementor-size-default ">Our</h5>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="elementor-element elementor-element-19dde5c7 elementor-widget elementor-widget-heading" data-id="19dde5c7" data-element_type="widget" data-widget_type="heading.default">
+                                                                        <div class="elementor-widget-container">
+                                                                            <h2 class="elementor-heading-title elementor-size-default">Clients &amp; Associates</h2>
+                                                                        </div>
+                                                                    </div>
+                                                                    <section class="elementor-element elementor-element-110731d2 elementor-section-content-top elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section py-5" data-id="110731d2" data-element_type="section">
+                                                                        <div class="elementor-element elementor-element-5c30aab3 elementor-arrows-position-outside elementor-widget elementor-widget-image-carousel" data-id="5c30aab3" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;5&quot;,&quot;slides_to_show_tablet&quot;:&quot;3&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;autoplay_speed&quot;:2000,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;direction&quot;:&quot;ltr&quot;}" data-widget_type="image-carousel.default">
+                                                                            <div class="elementor-widget-container">
+                                                                                <div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+                                                                                    <div class="elementor-image-carousel swiper-wrapper">
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/jubilee-insurance.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/metropolitan.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/strategis-insurance.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/ppf.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/nssf.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/tanesco.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/resolution.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/dar-express.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/nhif.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/mastercard.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/visa.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/mpesa.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/airtelmoney.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/tigopesa.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/tpesa.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/halopesa.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/ezypesa.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                    <div class="elementor-swiper-button elementor-swiper-button-prev">
+                                                                                        <i class="eicon-chevron-left" aria-hidden="true"></i>
+                                                                                        <span class="elementor-screen-only">Previous</span>
+                                                                                    </div>
+                                                                                    <div class="elementor-swiper-button elementor-swiper-button-next">
+                                                                                        <i class="eicon-chevron-right" aria-hidden="true"></i>
+                                                                                        <span class="elementor-screen-only">Next</span>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </section>
                                                                 </div>
                                                             </div>
                                                         </div>

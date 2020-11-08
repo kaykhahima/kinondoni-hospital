@@ -1482,6 +1482,9 @@
 
     </style>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
     <link rel='stylesheet' id='wp-block-library-css' href='../wp-includes/css/dist/block-library/style.minc225.css?ver=5.4.1' media='all' />
     <link rel='stylesheet' id='hfe-style-css' href='../wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor91ce.css?ver=1.5.0' media='all' />
@@ -1542,7 +1545,8 @@ flexibility(document.documentElement);
                         <div class="ast-flex main-header-container">
                             <div class="site-branding">
                                 <div class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
-                                    <span class="site-logo-img"><a href="../" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="250" src="../wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="../wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span> </div>
+                                    <span class="site-logo-img"><a href="../" class="custom-logo-link transparent-custom-logo" rel="home" itemprop="url"><img width="250" src="../wp-content/uploads/sites/228/2018/07/logo.png" class="custom-logo" alt="Logo" srcset="../wp-content/uploads/sites/228/2018/07/logo.png 2x" /></a></span>
+                                </div>
                             </div>
 
                             <div class="ast-mobile-menu-buttons">
@@ -1561,9 +1565,13 @@ flexibility(document.documentElement);
                                                 <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-19"><a href="../">Home</a></li>
                                                 <li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="../about/">About</a></li>
                                                 <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-17"><a href="./" aria-current="page">Services</a></li>
-                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-17"><a href="../our-staff/" aria-current="page">Our Staff</a></li>
-                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="../latest-news/">Latest News</a></li>
-                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="../vacancies/">Vacancies</a></li>
+                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-17">
+                                                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Our Team</a>
+                                                    <div class="dropdown-menu">
+                                                        <a class="dropdown-item" href="../our-team/leadership" style="color: #00a650;"><i class="fas fa-angle-right"></i> Leadership</a>
+                                                        <a class="dropdown-item" href="../our-team/our-doctors" style="color: #00a650;"><i class="fas fa-angle-right"></i> Our Doctors</a>
+                                                    </div>
+                                                </li>
                                                 <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="../contact/">Contact</a></li>
                                             </ul>
                                         </div>
@@ -1628,7 +1636,8 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-3a9c553b elementor-widget elementor-widget-image" data-id="3a9c553b" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/3d-ultrasound.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
+                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/3d-ultrasound.png" class="attachment-full size-full w-75 p-5" alt="" />
+                                                                                                    </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-622c1e10 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="622c1e10" data-element_type="widget" data-widget_type="icon-list.default">
@@ -1658,7 +1667,8 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-52bf925 elementor-widget elementor-widget-image" data-id="52bf925" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/x-ray.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
+                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/x-ray.png" class="attachment-full size-full w-75 p-5" alt="" />
+                                                                                                    </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-61477a8 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="61477a8" data-element_type="widget" data-widget_type="icon-list.default">
@@ -1688,7 +1698,8 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-c17f86f elementor-widget elementor-widget-image" data-id="c17f86f" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/ct-scan.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
+                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/ct-scan.png" class="attachment-full size-full w-75 p-5" alt="" />
+                                                                                                    </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-4664cec elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="4664cec" data-element_type="widget" data-widget_type="icon-list.default">
@@ -1725,7 +1736,8 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-11d91ef elementor-widget elementor-widget-image" data-id="11d91ef" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/dental-unit.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
+                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/dental-unit.png" class="attachment-full size-full w-75 p-5" alt="" />
+                                                                                                    </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-c38462a elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="c38462a" data-element_type="widget" data-widget_type="icon-list.default">
@@ -1756,7 +1768,8 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-ee4c6ec elementor-widget elementor-widget-image" data-id="ee4c6ec" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/reproductive-child-health.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
+                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/reproductive-child-health.png" class="attachment-full size-full w-75 p-5" alt="" />
+                                                                                                    </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-59a8a2c elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="59a8a2c" data-element_type="widget" data-widget_type="icon-list.default">
@@ -1788,7 +1801,8 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-683659d elementor-widget elementor-widget-image" data-id="683659d" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/physiotherapy.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
+                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/physiotherapy.png" class="attachment-full size-full w-75 p-5" alt="" />
+                                                                                                    </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-1529595 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="1529595" data-element_type="widget" data-widget_type="icon-list.default">
@@ -1826,7 +1840,8 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-51eed90 elementor-widget elementor-widget-image" data-id="51eed90" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/ctc.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
+                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/ctc.png" class="attachment-full size-full w-75 p-5" alt="" />
+                                                                                                    </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-1f3c643 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="1f3c643" data-element_type="widget" data-widget_type="icon-list.default">
@@ -1859,7 +1874,8 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-ee086cb elementor-widget elementor-widget-image" data-id="ee086cb" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/laboratory.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
+                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/laboratory.png" class="attachment-full size-full w-75 p-5" alt="" />
+                                                                                                    </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-9926b38 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="9926b38" data-element_type="widget" data-widget_type="icon-list.default">
@@ -1890,7 +1906,8 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-1d51d7f elementor-widget elementor-widget-image" data-id="1d51d7f" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/theatre.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
+                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/theatre.png" class="attachment-full size-full w-75 p-5" alt="" />
+                                                                                                    </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-49876f6 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="49876f6" data-element_type="widget" data-widget_type="icon-list.default">
@@ -1927,7 +1944,8 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-51eed90 elementor-widget elementor-widget-image" data-id="51eed90" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/social-welfare-programs.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
+                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/social-welfare-programs.png" class="attachment-full size-full w-75 p-5" alt="" />
+                                                                                                    </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-1f3c643 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="1f3c643" data-element_type="widget" data-widget_type="icon-list.default">
@@ -1955,7 +1973,8 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-ee086cb elementor-widget elementor-widget-image" data-id="ee086cb" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/icu.png" class="attachment-full size-full w-75 p-5" alt="" /> </div>
+                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/icu.png" class="attachment-full size-full w-75 p-5" alt="" />
+                                                                                                    </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="elementor-element elementor-element-9926b38 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="9926b38" data-element_type="widget" data-widget_type="icon-list.default">
@@ -1977,6 +1996,98 @@ flexibility(document.documentElement);
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </section>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </section>
+                                            <section class="elementor-element elementor-element-ac9c780 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section bg-grey py-5" data-id="ac9c780" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                <div class="elementor-background-overlay"></div>
+                                                <div class="elementor-container elementor-column-gap-no">
+                                                    <div class="elementor-row">
+                                                        <div class="elementor-element elementor-element-502d4586 elementor-column elementor-col-100 elementor-top-column" data-id="502d4586" data-element_type="column">
+                                                            <div class="elementor-column-wrap  elementor-element-populated">
+                                                                <div class="elementor-widget-wrap text-center">
+                                                                    <div class="elementor-element elementor-element-5a4ec3f0 elementor-widget elementor-widget-heading" data-id="5a4ec3f0" data-element_type="widget" data-widget_type="heading.default">
+                                                                        <div class="elementor-widget-container">
+                                                                            <h5 class="elementor-heading-title elementor-size-default ">Our</h5>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="elementor-element elementor-element-19dde5c7 elementor-widget elementor-widget-heading" data-id="19dde5c7" data-element_type="widget" data-widget_type="heading.default">
+                                                                        <div class="elementor-widget-container">
+                                                                            <h2 class="elementor-heading-title elementor-size-default">Clients &amp; Associates</h2>
+                                                                        </div>
+                                                                    </div>
+                                                                    <section class="elementor-element elementor-element-110731d2 elementor-section-content-top elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section py-5" data-id="110731d2" data-element_type="section">
+                                                                        <div class="elementor-element elementor-element-5c30aab3 elementor-arrows-position-outside elementor-widget elementor-widget-image-carousel" data-id="5c30aab3" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;5&quot;,&quot;slides_to_show_tablet&quot;:&quot;3&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;autoplay_speed&quot;:2000,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;direction&quot;:&quot;ltr&quot;}" data-widget_type="image-carousel.default">
+                                                                            <div class="elementor-widget-container">
+                                                                                <div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+                                                                                    <div class="elementor-image-carousel swiper-wrapper">
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/jubilee-insurance.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/metropolitan.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/strategis-insurance.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/ppf.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/nssf.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/tanesco.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/resolution.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/dar-express.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/nhif.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/mastercard.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/visa.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/mpesa.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/airtelmoney.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/tigopesa.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/tpesa.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/halopesa.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                        <div class="swiper-slide">
+                                                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="../wp-content/uploads/sites/228/2018/07/ezypesa.png" alt="Client logo" /></figure>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                    <div class="elementor-swiper-button elementor-swiper-button-prev">
+                                                                                        <i class="eicon-chevron-left" aria-hidden="true"></i>
+                                                                                        <span class="elementor-screen-only">Previous</span>
+                                                                                    </div>
+                                                                                    <div class="elementor-swiper-button elementor-swiper-button-next">
+                                                                                        <i class="eicon-chevron-right" aria-hidden="true"></i>
+                                                                                        <span class="elementor-screen-only">Next</span>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
