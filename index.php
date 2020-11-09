@@ -1364,7 +1364,8 @@
         /*        hero image bg color overlay*/
         .elementor-6 .elementor-element.elementor-element-683e60c3>.elementor-background-overlay {
             background-color: transparent;
-            background-image: linear-gradient(45deg, #00a650 100%, #00a650 100%) !important;
+            /*            background-image: linear-gradient(45deg, #00a650 100%, #00a650 100%) !important;*/
+            background-image: linear-gradient(45deg, #fff 100%, #fff 100%) !important;
             opacity: .9;
             transition: background .3s, border-radius .3s, opacity .3s;
         }
@@ -1434,6 +1435,26 @@
             font-family: 'Nunito', sans-serif !important;
         }
 
+        .elementor-6 .elementor-element.elementor-element-32ac764d .elementor-button {
+            fill: #000;
+            color: #fff !important;
+            background-color: #00a650 !important;
+        }
+
+        .nav {
+            background-color: #00a650 !important;
+        }
+
+        .elementor-6 .elementor-element.elementor-element-32ac764d .elementor-button .this-btn {
+            fill: #000;
+            color: #fff !important;
+            background-color: red !important;
+        }
+
+        .primary-color {
+            color: #00a650 !important;
+        }
+
         @media (max-width: 767px) {
             .elementor-6 .elementor-element.elementor-element-683e60c3 {
                 padding: 200px 10px !important;
@@ -1495,24 +1516,24 @@ flexibility(document.documentElement);
 </head>
 
 <body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="home page-template-default page page-id-6 wp-custom-logo ehf-footer ehf-template-astra ehf-stylesheet-astra ast-desktop ast-page-builder-template ast-no-sidebar astra-2.4.4 ast-header-custom-item-inside ast-single-post ast-replace-site-logo-transparent ast-inherit-site-logo-transparent ast-theme-transparent-header elementor-default elementor-kit-556 elementor-page elementor-page-6 astra-addon-2.5.0">
-    <ul class="nav mx-3">
+    <ul class="nav m-0 px-3 small">
         <li class="nav-item">
-            <span class="nav-link" style="color: #00a650;"><i class="fa fa-envelope"></i> info@kinondonihospital.co.tz</span>
+            <span class="nav-link" style="color: #fff;"><i class="fa fa-envelope"></i> info@kinondonihospital.co.tz</span>
         </li>
         <li class="nav-item">
-            <span class="nav-link" style="color: #00a650;"><i class="fa fa-phone"></i> +255 012 345 678</span>
+            <span class="nav-link" style="color: #fff;"><i class="fa fa-phone"></i> +255 012 345 678</span>
         </li>
         <li class="nav-item ml-auto">
-            <a class="nav-link" href="#" style="color: #00a650;"><i class="fa fa-facebook"></i></a>
+            <a class="nav-link" href="#" style="color: #fff;"><i class="fa fa-facebook"></i></a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#" style="color: #00a650;"><i class="fa fa-twitter"></i></a>
+            <a class="nav-link" href="#" style="color: #fff;"><i class="fa fa-twitter"></i></a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#" style="color: #00a650;"><i class="fa fa-instagram"></i></a>
+            <a class="nav-link" href="#" style="color: #fff;"><i class="fa fa-instagram"></i></a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#" style="color: #00a650;"><i class="fa fa-whatsapp"></i></a>
+            <a class="nav-link" href="#" style="color: #fff;"><i class="fa fa-whatsapp"></i></a>
         </li>
 
     </ul>
@@ -1542,17 +1563,17 @@ flexibility(document.documentElement);
                                     <nav class="ast-flex-grow-1 navigation-accessibility" id="site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope">
                                         <div class="main-navigation">
                                             <ul id="primary-menu" class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border">
-                                                <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-19"><a href="./" aria-current="page">Home</a></li>
-                                                <li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="about/">About</a></li>
-                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="services/">Services</a></li>
+                                                <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-19"><a href="./" aria-current="page" style="color: #00a650">Home</a></li>
+                                                <li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="about/" style="color: #00a650">About</a></li>
+                                                <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="services/" style="color: #00a650">Services</a></li>
                                                 <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-17">
-                                                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Our Team</a>
+                                                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" style="color: #00a650">Our Team</a>
                                                     <div class="dropdown-menu">
                                                         <a class="dropdown-item" href="./our-team/leadership.php" style="color: #00a650;"><i class="fas fa-angle-right"></i> Leadership</a>
                                                         <a class="dropdown-item" href="./our-team/our-doctors.php" style="color: #00a650;"><i class="fas fa-angle-right"></i> Our Doctors</a>
                                                     </div>
                                                 </li>
-                                                <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="contact/">Contact</a></li>
+                                                <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="contact/" style="color: #00a650">Contact</a></li>
                                             </ul>
                                         </div>
                                     </nav>
@@ -1583,12 +1604,12 @@ flexibility(document.documentElement);
                                                                 <div class="elementor-widget-wrap">
                                                                     <div class="elementor-element elementor-element-4062f50c elementor-widget elementor-widget-heading" data-id="4062f50c" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h5 class="elementor-heading-title elementor-size-default">The Registered Trustees of</h5>
+                                                                            <h5 class="elementor-heading-title elementor-size-default" style="color: #00a650">The Registered Trustees of</h5>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-031893d elementor-widget elementor-widget-heading" data-id="031893d" data-element_type="widget" data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h2 class="elementor-heading-title elementor-size-default">Kinondoni Hospital</h2>
+                                                                            <h2 class="elementor-heading-title elementor-size-default" style="color: #00a650">Kinondoni Hospital</h2>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-fb6dbba elementor-widget elementor-widget-divider" data-id="fb6dbba" data-element_type="widget" data-widget_type="divider.default">
@@ -1608,7 +1629,7 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-1ece318 elementor-widget elementor-widget-text-editor" data-id="1ece318" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>We provide quality health services to the
+                                                                                                        <p style="color: #000">We provide quality health services to the
                                                                                                             public with a focus on low income earners in
                                                                                                             the locale that the hospital is placed. Together with partnering with insurance
                                                                                                             companies that cater to the needs of the
@@ -1629,13 +1650,7 @@ flexibility(document.documentElement);
                                                                                                                 <span class="elementor-button-text">Make An Appointment </span>
                                                                                                             </span>
                                                                                                         </a>
-                                                                                                        <a href="about/" class="elementor-button-link elementor-button muted-btn elementor-size-sm" role="button">
-                                                                                                            <span class="elementor-button-content-wrapper">
-                                                                                                                <span class="elementor-button-icon elementor-align-icon-right">
-                                                                                                                    <i aria-hidden="true" class="fas fa-angle-right"></i> </span>
-                                                                                                                <span>Learn More </span>
-                                                                                                            </span>
-                                                                                                        </a>
+                                                                                                        <span class="pl-3"><a href="about/" class="primary-color">Learn More <i aria-hidden="true" class="fas fa-angle-right"></i></a></span>
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
