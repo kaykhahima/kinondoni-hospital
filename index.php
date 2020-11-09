@@ -1366,7 +1366,7 @@
             background-color: transparent;
             /*            background-image: linear-gradient(45deg, #00a650 100%, #00a650 100%) !important;*/
             background-image: linear-gradient(45deg, #fff 100%, #fff 100%) !important;
-            opacity: .9;
+            opacity: .85 !important;
             transition: background .3s, border-radius .3s, opacity .3s;
         }
 
