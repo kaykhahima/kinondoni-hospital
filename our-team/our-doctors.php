@@ -1513,8 +1513,8 @@ flexibility(document.documentElement);
                                                 <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-17">
                                                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Our Team</a>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="./leadership" style="color: #00a650;"><i class="fas fa-angle-right"></i> Leadership</a>
-                                                        <a class="dropdown-item" href="./our-doctors" style="color: #00a650;"><i class="fas fa-angle-right"></i> Our Doctors</a>
+                                                        <a class="dropdown-item" href="./leadership.php" style="color: #00a650;"><i class="fas fa-angle-right"></i> Leadership</a>
+                                                        <a class="dropdown-item" href="./our-doctors.php" style="color: #00a650;"><i class="fas fa-angle-right"></i> Our Doctors</a>
                                                     </div>
                                                 </li>
                                                 <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="../contact/">Contact</a></li>
