@@ -1736,7 +1736,7 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-11d91ef elementor-widget elementor-widget-image" data-id="11d91ef" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/dental-unit.png" class="attachment-full size-full w-75 p-5" alt="" />
+                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/services/dental-unit.png" class="attachment-full size-full" alt="" />
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -1768,7 +1768,7 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-ee4c6ec elementor-widget elementor-widget-image" data-id="ee4c6ec" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/reproductive-child-health.png" class="attachment-full size-full w-75 p-5" alt="" />
+                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/services/rch.png" class="attachment-full size-full" alt="" />
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -1874,7 +1874,7 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-ee086cb elementor-widget elementor-widget-image" data-id="ee086cb" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/laboratory.png" class="attachment-full size-full w-75 p-5" alt="" />
+                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/services/laboratory.png" class="attachment-full size-full" alt="" />
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -1906,7 +1906,7 @@ flexibility(document.documentElement);
                                                                                             <div class="elementor-element elementor-element-1d51d7f elementor-widget elementor-widget-image" data-id="1d51d7f" data-element_type="widget" data-widget_type="image.default">
                                                                                                 <div class="elementor-widget-container">
                                                                                                     <div class="elementor-image bg-success text-center rounded">
-                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/icons/theatre.png" class="attachment-full size-full w-75 p-5" alt="" />
+                                                                                                        <img src="../wp-content/uploads/sites/228/2018/07/services/theatre.png" class="attachment-full size-full" alt="" />
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
